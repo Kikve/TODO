@@ -1,0 +1,14 @@
+---
+tags:
+  - tipo
+aliases:
+  - web
+---
+
+
+
+
+
+
+
+
