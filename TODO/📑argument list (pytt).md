@@ -15,8 +15,6 @@ tema:
 
 specify that a [[📑functions (pytt)|function]] can be called with an arbitrary number of __arguments__.
 
-
-
 ```python
 def write_multiple_items(file, separator, *args):
     file.write(separator.join(args))
