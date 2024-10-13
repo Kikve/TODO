@@ -1,7 +1,7 @@
 ---
 tags: 
 aliases:
-  - null (eloj)
+  - null (pytt)
 tipo: 📑
 referencia:
 tema: 
@@ -9,6 +9,6 @@ tema:
 
 #nota/📑
 
-# null (eloj)
 
-- [ ] recordar  [start:: 2024-10-11]
+
+
