@@ -13,6 +13,7 @@ url:
 
 #nota/🏛️
 
+# 🏛️ eloquent javascript
 
 ```dataview
 table file.cday from [[]] sort file.ctime desc
