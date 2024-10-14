@@ -21,8 +21,8 @@ table file.ctime from [[]] sort file.ctime asc
 
 ---
 tipo: "[[libro]]"
-titulo: ""
-autor: ""
+titulo: haskell programming from first principles"
+autor: "christopher allen"
 editorial: ""
 ano: ""
 url: ""
