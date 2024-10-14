@@ -26,6 +26,8 @@ __definitions from a module can be imported__  into other __modules__ or into th
 [[📑import names from module (pytt)|import names from module]]
 [[📑bound to the module (pytt)|bound to the module]]
 [[📑executing modules (pytt)|executing modules]]
+[[📑module search path (pytt)|module search path]]
+
 
 
 
