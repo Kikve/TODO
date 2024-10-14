@@ -23,4 +23,4 @@ The most popular implementation of __Haskell__, the __Glasgow Haskell Compiler__
 
 
 Some languages in this general category incorporate features into the language that aren’t translatable into lambda expressions.
-Haskell is a pure functional language, because it does not.
+Haskell is a pure [[📑functional programming (hpf)|functional programming]], because it does not.
