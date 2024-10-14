@@ -15,3 +15,4 @@ Their arguments are evaluated from left to right, and evaluation stops as soon a
 if `A` and `C` are true but `B` is false, `A and B and C` does not evaluate the expression `C`.
 [[📑boolean (pytt)|boolean operators]]
 
+s
