@@ -19,13 +19,5 @@ tema:
 __Functional programming__ is a computer programming paradigm
 that relies on [[📑function (hpf)|functions]] modeled on __mathematical functions__
 
-- Essence of functional programming is that programs are a combination of [[📑expression (hpf)|expressions]]
+[[📑characteristics functional programming (hpf)|characteristics functional programming]]
 
-- [[📑function (hpf)|functions]] are __first-class__:
-     they can be used as values or passed as arguments, or inputs 
-     
-- Are all based on the [[📑lambda calculus (hpf)|lambda calculus]]
-- **purity** in [[📑functional programming (hpf)|functional programming]]  means called  that is called [[📑referencial transparency (hpf)|referencial transparency]]
-- Are built from separate, independent [[📑function (hpf)|functions]] 
-- high degree of abstraction and composability.
-- [[📑abstraction (hpf)|abstraction]] allows you to write shorter, more concise programs by factoring common, repeated structures .

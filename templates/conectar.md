@@ -21,7 +21,8 @@ let frontmatter = {
     letras: parent.reduccion,
     referencias: parent.link, 
     tipo_nota: "📑",
-    hash: `${tp.user.hash(tmn_hash)} <- ${parent.hash}`
+    hash: tp.user.hash(tmn_hash),
+    parent_hash: parent.hash
     
 }
 // -------------------------------------
@@ -32,7 +33,8 @@ newFile += "\n#nota/" + frontmatter.tipo_nota
 // titulo
 newFile += 
 `\n\n# ${frontmatter.tipo_nota}${frontmatter.nombre_nota}\n`
- newFile += `<div class="hash">${frontmatter.hash}</div>`  
+// hashes ### <- ####
+ newFile += `<div class="hash">(${frontmatter.parent_hash}) ◀️ (${frontmatter.hash}) </div>`  
 
 newFile += `\n\n- [ ] recordar  [start:: ${tp.date.now()}]\n`
 await tp.file.create_new(newFile,
