@@ -11,7 +11,7 @@ parent_hash: "bb1ea"
 #nota/📑
 
 # 📑characteristics functional programming
-<div class="hash">(bb1ea) ◀️ (38d8a) </div>
+<div class="hash">(38d8a) </div>
 
 - Essence of functional programming is that programs are a combination of [[📑expression (hpf)|expressions]]
 

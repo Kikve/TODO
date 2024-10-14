@@ -3,6 +3,7 @@ tags:
 aliases:
   - abstraction
   - abstractions
+  - lambda abstraction
 tipo: 📑
 referencia: "[[🏛️haskell programming from first principles (9853c)]]"
 tema:

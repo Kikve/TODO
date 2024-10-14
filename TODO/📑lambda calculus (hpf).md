@@ -17,6 +17,11 @@ tema:
 
 __lambda calculus__, a model of computation devised in the 1930s by __Alonzo Church__
 
-The __lambda calculus__ is one process for __formalizing a method__. 
-Like Turing machines, the lambda calculus formalizes the concept of __eﬀective computability__, thus determining which problems, or classes of problems, can be solved
+The [[📑lambda calculus (hpf)|lambda calculus]] is one process for __formalizing a method__. 
+Like __Turing__ machines, the [[📑lambda calculus (hpf)|lambda calculus]] formalizes the concept of __eﬀective computability__, thus determining which problems, or classes of problems, can be solved
 
+ [[📑computation consist (hpf)|computation consist]]
+
+
+[[📑lambda calculus (hpf)|lambda calculus]] is a process or __method__, like a game with a few
+simple rules for transforming [[📑lambda term (hpf)|lambdas]]

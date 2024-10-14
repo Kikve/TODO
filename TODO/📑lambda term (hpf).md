@@ -2,9 +2,12 @@
 tags: 
 aliases:
   - lambda term
+  - lambda terms
+  - lambda
+  - lambdas
 tipo: 📑
-referencia:
-tema: 
+referencia: 
+tema:
 ---
 
 #nota/📑

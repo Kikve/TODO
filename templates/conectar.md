@@ -34,7 +34,7 @@ newFile += "\n#nota/" + frontmatter.tipo_nota
 newFile += 
 `\n\n# ${frontmatter.tipo_nota}${frontmatter.nombre_nota}\n`
 // hashes ### <- ####
- newFile += `<div class="hash">(${frontmatter.parent_hash}) ◀️ (${frontmatter.hash}) </div>`  
+ newFile += `<div class="hash">(${frontmatter.hash})</div>`  
 
 newFile += `\n\n- [ ] recordar  [start:: ${tp.date.now()}]\n`
 await tp.file.create_new(newFile,
