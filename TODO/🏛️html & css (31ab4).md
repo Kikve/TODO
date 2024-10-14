@@ -14,10 +14,8 @@ hash: "206ab"
 # 🏛️html & css
 <div>(206ab)</div>
 
----
-
 
 ```dataview
-table file.ctime, file.tasks.text from [[]] sort file.ctime desc
+table  hash, file.ctime as tiempo, file.tasks.text from [[]] sort file.ctime desc
 
 ```

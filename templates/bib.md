@@ -5,7 +5,7 @@
 const tmn_hash = 6;
 // frontmatter
 // --------------------------------------
-const frontmatter = {
+let frontmatter = {
     tipo: "", 
     titulo: "", 
     autor: "",
@@ -13,11 +13,15 @@ const frontmatter = {
     ano: "",
     url: "",
     nombre_nota: tp.file.title,
+    aliases: [] ,
     reduccion: tp.user.reduce_name(tp.file.title),
     tipo_nota: "🏛️",
     hash: tp.user.hash(tmn_hash)
 }
 // --------------------------------------
+frontmatter["aliases"].push(frontmatter.title)
+frontmatter["aliases"].push(frontmatter.reduccion)
+
 
 tR = tp.user.objetoAFrontmatter(frontmatter)
 // tag

@@ -27,7 +27,8 @@ dias_activos:
 - [ ] programacion competitiva 20 min  [repeat:: every weekday]  [start:: 2024-10-14]
 - [ ] programacion competitiva 20 min  [repeat:: every weekday]  [start:: 2024-10-14]
 - [ ] programacion competitiva 20 min  [repeat:: every weekday]  [start:: 2024-10-14]
-- [ ] html 20 min  [repeat:: every weekday]  [start:: 2024-10-14]
+- [ ] html 20 min  [repeat:: every weekday]  [start:: 2024-10-15]
+- [x] html 20 min  [repeat:: every weekday]  [start:: 2024-10-14]  [completion:: 2024-10-14]
 - [ ] html 20 min  [repeat:: every weekday]  [start:: 2024-10-14]
 - [ ] html 20 min  [repeat:: every weekday]  [start:: 2024-10-14]
 

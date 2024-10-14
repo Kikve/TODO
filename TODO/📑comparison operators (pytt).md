@@ -27,5 +27,8 @@ tema:
 - __is not__
 
 
+[[📑comparing sequences (pytt)|comparing sequences]]
+
+
 
 - [ ] recordar  [start:: 2024-10-12]

@@ -1,16 +1,26 @@
 ---
-aliases:
-  - python tutorial
-nombre_nota: python tutorial
-tipo_nota: 🏛️
-titulo: python tutorial
-autor: 
-editorial: 
 tipo: "[[web|web]]"
+titulo: ""
+autor: ""
+editorial: ""
+ano: ""
 url: https://docs.python.org/3/tutorial/index.html
+nombre_nota: "python tutorial"
+aliases: 
+ - pytt
+reduccion: "pytt"
+tipo_nota: "🏛️"
+hash: "aea5a"
 ---
-#nota/🏛️ 
-```dataview
-table file.cday, file.tasks.text from [[]] SORT file.cday asc
-```
 
+
+#nota/🏛️
+
+# 🏛️python tutorial
+<div>(aea5a)</div>
+
+
+```dataview
+table file.ctime, file.tasks.text from [[]] sort file.ctime desc
+
+```

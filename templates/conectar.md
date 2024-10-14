@@ -1,5 +1,5 @@
 <%* 
-const tmn_hash = 6
+const tmn_hash = 7
 const nombre =  await tp.system.prompt("Nombre")
 
 //  del frontmatter del padre

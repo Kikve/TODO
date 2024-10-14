@@ -16,7 +16,8 @@ tema:
 
 __Python__ has a way to _put definitions in a file_ and use them in a script or in an interactive instance of the interpreter.
 
-Such a file is called a __module__; __definitions from a module can be imported__  into other __modules__ or into the _main_ module
+Such a file is called a __module__
+__definitions from a module can be imported__  into other __modules__ or into the _main_ module
 
 - A __module__ is a file containing _Python_ definitions and statements.
 -  The __file name__ is the module name with the suffix `.py` appended
