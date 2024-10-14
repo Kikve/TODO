@@ -1,18 +1,17 @@
 ---
-tags: 
-aliases:
-  - numbers
-  - number
-  - number type
-tipo: 📑
-referencia: "[[🏛️eloquent javascript (b1018)]]"
-tema:
-  - javascript
+nombre_nota: "numbers"
+alias: numbers
+letras: "eloj"
+referencias: "[[TODO/🏛️eloquent javascript (b1018).md]]"
+tipo_nota: "📑"
+hash: "36c9e"
+parent_hash: "a922b"
 ---
 
 #nota/📑
 
-# Numbers
+# 📑numbers
+<div class="hash">(36c9e)</div>
 
 __numeric values__
 [[📑javascript (eloj)|javascript]]  uses a fixed number of bits, 64 of them, to store a single number
@@ -25,3 +24,5 @@ With $N$  decimal digits, you can represent $10^{N}$ numbers
  you may also use scientific notation  2.998e8
  
 [[📑special numbers (eloj)|special numbers]]
+
+- [ ] recordar  [start:: 2024-10-13]

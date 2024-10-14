@@ -1,19 +1,18 @@
 ---
-tags: 
-aliases:
-  - type conversion
-  - type coercion
-tipo: 📑
-referencia: "[[🏛️eloquent javascript (b1018)]]"
-tema:
-  - javascript
+nombre_nota: "type coercion"
+alias: type coercion
+letras: "eloj"
+referencias: "[[TODO/🏛️eloquent javascript (b1018).md]]"
+tipo_nota: "📑"
+hash: "7d187"
+parent_hash: "a922b"
 ---
 
 #nota/📑
 
-# type conversion 
+# 📑type coercion
+<div class="hash">(7d187)</div>
 
-- [ ] recordar  [start:: 2024-10-11]
 
 When an [[📑operators (eloj)|operator]] is applied to the “wrong” [[📑type  (eloj)|type]] of value, [[📑javascript (eloj)|javascript]] will
 quietly convert that value to the type it needs, using __a set of rules__
@@ -39,3 +38,5 @@ console.log(null == 0);
 > [!NOTE] 
 When you do not want any __type conversions__
 to happen, there are two additional operators: __\=\==__and__ !\==__
+
+- [ ] recordar  [start:: 2024-10-13]

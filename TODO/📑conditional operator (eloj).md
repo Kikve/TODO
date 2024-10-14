@@ -1,19 +1,20 @@
 ---
-tags: 
-aliases:
-  - conditional operator
-  - ternary operator
-tipo: 📑
-referencia: "[[🏛️eloquent javascript (b1018)]]"
-tema:
-  - javascript
+nombre_nota: "conditional operator"
+alias: conditional operator
+letras: "eloj"
+referencias: "[[TODO/🏛️eloquent javascript (b1018).md]]"
+tipo_nota: "📑"
+hash: "b0395"
+parent_hash: "a922b"
 ---
+
 
 #nota/📑
 
-# conditional operator 
+# 📑conditional operator
+<div class="hash">(b0395)</div>
 
-- [ ] recordar  [start:: 2024-10-11]
+
 [[📑operators (eloj)|operator]]
 
 __conditional operator__  (or sometimes just the __ternary operator__ )
@@ -28,3 +29,7 @@ console.log(true ? 1 : 2);
 console.log(false ? 1 : 2);
 // → 2
 ```
+
+
+
+- [ ] recordar  [start:: 2024-10-13]
