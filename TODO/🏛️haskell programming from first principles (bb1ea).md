@@ -15,7 +15,7 @@ hash: "bb1ea"
 #nota/🏛️
 
 # 🏛️haskell programming from first principles
-<div>(bb1ea)</div>
+<div class="hash">(bb1ea)</div>
 
 ```dataview
 table file.ctime, file.tasks.text from [[]] sort file.ctime desc
