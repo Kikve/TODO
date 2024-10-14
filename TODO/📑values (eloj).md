@@ -1,11 +1,13 @@
 ---
-nombre_nota: "values"
-alias: values
-letras: "eloj"
+nombre_nota: values
+aliases:
+  - values
+  - value
+letras: eloj
 referencias: "[[TODO/🏛️eloquent javascript (b1018).md]]"
-tipo_nota: "📑"
-hash: "f09fe"
-parent_hash: "a922b"
+tipo_nota: 📑
+hash: f09fe
+parent_hash: a922b
 ---
 #nota/📑
 

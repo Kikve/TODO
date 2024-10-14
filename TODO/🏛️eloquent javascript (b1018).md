@@ -1,14 +1,16 @@
 ---
 tipo: "[[libro]]"
-titulo:  "eloquent javascript"
-autor:  "Marijn Haverbeke"
-editorial: "No Starch Press"
-ano: ""
+titulo: eloquent javascript
+autor: Marijn Haverbeke
+editorial: No Starch Press
+ano: 
 url: ""
-nombre_nota:  "eloquent javascript"
-reduccion: "eloj"
-tipo_nota: "🏛️"
-hash: "a922b"
+nombre_nota: eloquent javascript
+reduccion: eloj
+tipo_nota: 🏛️
+hash: a922b
+aliases:
+  - eloj
 ---
 #nota/🏛️
 
