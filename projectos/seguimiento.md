@@ -18,17 +18,23 @@ dias_activos:
 ---
 # segumiento
 
+- [ ] python 20 min  [repeat:: every weekday]  [start:: 2024-10-15]
+- [x] python 20 min  [repeat:: every weekday]  [start:: 2024-10-14]  [completion:: 2024-10-14]
+- [ ] python 20 min  [repeat:: every weekday]  [start:: 2024-10-15]
+- [x] python 20 min  [repeat:: every weekday]  [start:: 2024-10-14]  [completion:: 2024-10-14]
 - [ ] python 20 min  [repeat:: every weekday]  [start:: 2024-10-14]
-- [ ] python 20 min  [repeat:: every weekday]  [start:: 2024-10-14]
-- [ ] python 20 min  [repeat:: every weekday]  [start:: 2024-10-14]
+- [ ] javascript 20 min  [repeat:: every weekday]  [start:: 2024-10-15]
 - [ ] javascript 20 min  [repeat:: every weekday]  [start:: 2024-10-14]
-- [ ] javascript 20 min  [repeat:: every weekday]  [start:: 2024-10-14]
-- [ ] javascript 20 min  [repeat:: every weekday]  [start:: 2024-10-14]
+- [ ] javascript 20 min  [repeat:: every weekday]  [start:: 2024-10-15]
+- [x] javascript 20 min  [repeat:: every weekday]  [start:: 2024-10-14]  [completion:: 2024-10-14]
+- [ ] javascript 20 min  [repeat:: every weekday]  [start:: 2024-10-15]
+- [x] javascript 20 min  [repeat:: every weekday]  [start:: 2024-10-14]  [completion:: 2024-10-14]
 - [ ] programacion competitiva 20 min  [repeat:: every weekday]  [start:: 2024-10-14]
 - [ ] programacion competitiva 20 min  [repeat:: every weekday]  [start:: 2024-10-14]
 - [ ] programacion competitiva 20 min  [repeat:: every weekday]  [start:: 2024-10-14]
 - [ ] html 20 min  [repeat:: every weekday]  [start:: 2024-10-15]
 - [x] html 20 min  [repeat:: every weekday]  [start:: 2024-10-14]  [completion:: 2024-10-14]
 - [ ] html 20 min  [repeat:: every weekday]  [start:: 2024-10-14]
-- [ ] html 20 min  [repeat:: every weekday]  [start:: 2024-10-14]
+- [ ] html 20 min  [repeat:: every weekday]  [start:: 2024-10-15]
+- [x] html 20 min  [repeat:: every weekday]  [start:: 2024-10-14]  [completion:: 2024-10-14]
 

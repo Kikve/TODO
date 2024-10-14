@@ -11,6 +11,12 @@ tipo: 🔌
 
 # Function
 
+# javascript
+
+[[📑function (eloj)]] 
 
 
+# python
+
+[[📑built-in functions (psl)]]
 

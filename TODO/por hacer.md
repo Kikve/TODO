@@ -14,7 +14,7 @@ is not recurring
 
 > [!NOTE] 
 >```tasks
->not done
+>
 >starts today
 >is recurring
 
