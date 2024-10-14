@@ -4,6 +4,7 @@ aliases:
   - link
   - links
   - a
+  - a element
 letras: h&c
 referencias: "[[TODO/🏛️html & css (31ab4).md]]"
 tipo_nota: 📑
@@ -23,8 +24,9 @@ __href__ . The value of the __href__ [[📑attributes (h&c)|attribute]] is the p
 
 
 [[📑link to same folder (h&c)|link to the same folder]]
-
-
+[[📑relative url (h&c)|relative url]]
+[[📑email link (h&c)|email link]]
+[[📑links in new window (h&c)|links in new window]]
 
 ### example 
 ```html
