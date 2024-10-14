@@ -24,8 +24,8 @@ that relies on [[📑function (hpf)|functions]] modeled on __mathematical functi
 - [[📑function (hpf)|functions]] are __first-class__:
      they can be used as values or passed as arguments, or inputs 
      
--  Are all based on the [[📑lambda calculus (hpf)|lambda calculus]]
-- purity in functional programming  means  called  that is called [[📑referencial transparency (hpf)|referencial transparency]]
+- Are all based on the [[📑lambda calculus (hpf)|lambda calculus]]
+- **purity** in [[📑functional programming (hpf)|functional programming]]  means called  that is called [[📑referencial transparency (hpf)|referencial transparency]]
 - Are built from separate, independent [[📑function (hpf)|functions]] 
 - high degree of abstraction and composability.
 - [[📑abstraction (hpf)|abstraction]] allows you to write shorter, more concise programs by factoring common, repeated structures .
