@@ -1,24 +1,26 @@
 ---
-aliases:
-  - eloquent javascript
-nombre_nota: eloquent javascript
-tipo_nota: 🏛️
 tipo: "[[libro]]"
-titulo: Eloquent JavaScript
-autor: Marijn Haverbeke
-editorial: No Starch Press
-edicion: 3
-url:
+titulo:  "eloquent javascript"
+autor:  "Marijn Haverbeke"
+editorial: "No Starch Press"
+ano: ""
+url: ""
+nombre_nota:  "eloquent javascript"
+reduccion: "eloj"
+tipo_nota: "🏛️"
+hash: "a922b"
 ---
-
 #nota/🏛️
 
-# 🏛️ eloquent javascript
+
+
+# 🏛️eloquent javascript
+<div>(a922b)</div>
 
 ```dataview
-table file.cday from [[]] sort file.ctime desc
-```
+table file.ctime, file.tasks.text from [[]] sort file.ctime desc
 
+```
 
 
 

@@ -1,11 +1,13 @@
 ---
-nombre_nota: "beta reduction"
-alias: beta reduction
-letras: "hpf"
+nombre_nota: beta reduction
+aliases:
+  - beta reduction
+  - beta
+letras: hpf
 referencias: "[[TODO/🏛️haskell programming from first principles (9853c).md]]"
-tipo_nota: "📑"
-hash: "901b5"
-parent_hash: "bb1ea"
+tipo_nota: 📑
+hash: 901b5
+parent_hash: bb1ea
 ---
 
 #nota/📑

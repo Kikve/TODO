@@ -32,6 +32,6 @@ nating the outer lambda, and have 𝜆𝑦.𝑥𝑦
 
 ![[Pasted image 20241013212415.png|300]]
 
-
+[[📑example only abstract variables (hpf)|example only abstract variables]]
 
 - [ ] recordar  [start:: 2024-10-13]
