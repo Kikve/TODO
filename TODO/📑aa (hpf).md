@@ -10,6 +10,6 @@ hash: "a136a <- bb1ea"
 #nota/📑
 
 # 📑aa
-<div class="hash">a136a <\- bb1ea</div>
+<div class="hash">a136a</div>
 
 - [ ] recordar  [start:: 2024-10-13]
