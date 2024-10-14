@@ -17,6 +17,9 @@ parent_hash: "a922b"
 
 - Every __value__ has a [[📑type  (eloj)|type]] that determines its role.
 
-- [[📑values (eloj)|values]] are __numbers__, some values are pieces of text, some values are functions,
+- [[📑values (eloj)|values]] are __numbers__, some values are pieces of text, some values are __functions__,
 
-- [ ] recordar  [start:: 2024-10-13]
+
+
+
+- [x] recordar  [start:: 2024-10-13]  [completion:: 2024-10-13]
