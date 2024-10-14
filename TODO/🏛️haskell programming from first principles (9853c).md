@@ -11,6 +11,8 @@ tipo_nota: "🏛️"
 hash: bb1ea
 ---
 
+
+
 #nota/🏛️
 
 # 🏛️haskell programming from first principles
