@@ -15,6 +15,8 @@ hash: bb1ea
 
 #nota/🏛️
 
+
+
 # 🏛️haskell programming from first principles
 <div class="hash">(bb1ea)</div>
 
