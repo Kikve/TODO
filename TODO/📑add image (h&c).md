@@ -16,7 +16,7 @@ parent_hash: 206ab
 <div class="hash">(d8007)</div>
 
 
-To add an image into the page you need to use an [[📑img (h&c)|img element]]. This is an [[📑empty elements (h&c)|empty element]]
+To add an image into the page you need to use an [[📑img (h&c)|img element]]
 
 
 

@@ -15,9 +15,28 @@ parent_hash: 206ab
 # 📑img
 <div class="hash">(daf29)</div>
 
-## src 
+[[📑empty elements (h&c)|empty element]]
+[[📑add image (h&c)|add image]]
+[[📑block element (h&c)|block element]]
 
-This tells the __browser__ where it can find the __image file__. This will usually be a [[📑relative url (h&c)|relative url]] pointing to an [[📑add image (h&c)|image]] on your own __site__
+
+
+[[📑src image (h&c)|src attribute]]
+[[📑title image (h&c)|tittle attribute]]
+[[📑alt image (h&c)|alt attribute]]
+
+```html
+<img src="images/quokka.jpg" alt="A family of
+quokka" width="600" height="450" />
+```
+## height
+This specifies the __height__ of the [[📑add image (h&c)|image]] in pixels.
+
+## weight
+This specifies the __width__ of the
+[[📑add image (h&c)|image]] in pixels
+
+
 
 
 - [ ] recordar  [start:: 2024-10-14]
