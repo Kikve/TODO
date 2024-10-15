@@ -3,6 +3,9 @@ nombre_nota: img
 aliases:
   - img
   - img element
+  - image
+  - add an image
+  - images
 letras: h&c
 referencias: "[[TODO/🏛️html & css (31ab4).md]]"
 tipo_nota: 📑
@@ -16,27 +19,23 @@ parent_hash: 206ab
 <div class="hash">(daf29)</div>
 
 [[📑empty elements (h&c)|empty element]]
-[[📑add image (h&c)|add image]]
 [[📑block element (h&c)|block element]]
 
+[[📑html elements (h&c)|element]] for [[📑img (h&c)|add an image]]
 
-
+[[📑rules for images (h&c)|rules for images]]
 [[📑src image (h&c)|src attribute]]
 [[📑title image (h&c)|tittle attribute]]
 [[📑alt image (h&c)|alt attribute]]
-
+[[📑height (h&c)|height]]
+[[📑width (h&c)|width]]
 ```html
 <img src="images/quokka.jpg" alt="A family of
 quokka" width="600" height="450" />
 ```
-## height
-This specifies the __height__ of the [[📑add image (h&c)|image]] in pixels.
 
-## weight
-This specifies the __width__ of the
-[[📑add image (h&c)|image]] in pixels
+[[📑align (h&c)|align]]
 
-
-
+associated with [[📑captions (h&c)|captions]]
 
 - [ ] recordar  [start:: 2024-10-14]
