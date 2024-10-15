@@ -15,7 +15,7 @@ parent_hash: "a922b"
 
 
 The [[📑loops (eloj)|loop]] keeps entering to that [[📑statement (eloj)|statement]]  as long as the [[📑expression (eloj)|expression]] produces a
-[[📑values (eloj)|value]] that gives __true__ when converted to [[📑boolean (pytt)|boolean]].
+[[📑values (eloj)|value]] that gives __true__ when converted to [[📑boolean  (eloj)|boolean]].
 
 ```javascript
 let result = 1;

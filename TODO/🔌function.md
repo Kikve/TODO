@@ -19,4 +19,8 @@ tipo: 🔌
 # python
 
 [[📑built-in functions (psl)]]
+[[📑functions (pytt)]]
 
+# haskell
+
+[[📑function (hpf)]]

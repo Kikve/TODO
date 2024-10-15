@@ -18,7 +18,7 @@ Is a way to produce [[📑boolean  (eloj)|boolean]] [[📑values (eloj)|values]]
 > [!NOTE] 
 The > and < signs are the traditional symbols for “is greater than” and “is
 less than”, respectively. They are [[📑binary operator (eloj)|binary operators]]. Applying them results in
-a [[📑boolean (pytt)|boolean]] value that indicates whether they hold true in this case.
+a [[📑boolean  (eloj)|boolean]] value that indicates whether they hold true in this case.
 
 
 ```javascript
