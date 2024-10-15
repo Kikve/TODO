@@ -16,6 +16,7 @@ parent_hash: "bb1ea"
 - [ ] recordar  [start:: 2024-10-14]
 
 
-[[]]
+[[📑ghci module (hpf)|:module]]
+[[📑ghci reload (hpf)|:reload]]
 :quit
 :info
