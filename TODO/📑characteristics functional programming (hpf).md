@@ -13,7 +13,7 @@ parent_hash: "bb1ea"
 # 📑characteristics functional programming
 <div class="hash">(38d8a) </div>
 
-- Essence of functional programming is that programs are a combination of [[📑expression (hpf)|expressions]]
+- Essence of functional programming is that programs are a combination of [[📑expression (hpf)|expressions]] combinated with other [[📑expression (hpf)|expressions]]
 
 - [[📑function (hpf)|functions]] are __first-class__:
      they can be used as values or passed as arguments, or inputs 

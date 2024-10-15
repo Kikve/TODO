@@ -7,8 +7,10 @@ ano:
 url: ""
 nombre_nota: haskell programming from first principles
 reduccion: hpf
-tipo_nota: "🏛️"
+tipo_nota: 🏛️
 hash: bb1ea
+aliases:
+  - hpf
 ---
 
 

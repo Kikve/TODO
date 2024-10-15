@@ -15,6 +15,10 @@ tema:
 - [ ] recordar  [start:: 2024-10-11]
 
 
+ 
+> [!NOTE] 
+ is a formal system for expressing programs in terms of [[📑abstraction (hpf)|abstraction]] and [[📑beta reduction (hpf)|application]].
+ 
 __lambda calculus__, a model of computation devised in the 1930s by __Alonzo Church__
 
 The [[📑lambda calculus (hpf)|lambda calculus]] is one process for __formalizing a method__. 
@@ -25,3 +29,4 @@ Like __Turing__ machines, the [[📑lambda calculus (hpf)|lambda calculus]] form
 
 [[📑lambda calculus (hpf)|lambda calculus]] is a process or __method__, like a game with a few
 simple rules for transforming [[📑lambda term (hpf)|lambdas]]
+

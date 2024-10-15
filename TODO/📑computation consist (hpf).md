@@ -14,7 +14,7 @@ parent_hash: "bb1ea"
 <div class="hash">(1c53b)</div>
 
 
- __A computation__ therefore consists of an initial [[[📑lambda term (hpf)|lambda term]] (or two, if you want to separate the function and its input) plus a finite sequence of [[📑lambda term (hpf)|lambda terms]], each deduced from the preceding term by one application of [[📑beta reduction (hpf)|beta reduction]].
+ __A computation__ therefore consists of an initial [[[📑lambda term (hpf)|lambda term]] (or two, if you want to separate the [[📑function (hpf)|function]] and its input) plus a finite sequence of [[📑lambda term (hpf)|lambda terms]], each deduced from the preceding __term__ by one __application__ of [[📑beta reduction (hpf)|beta reduction]].
 
 
 

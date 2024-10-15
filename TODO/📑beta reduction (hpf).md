@@ -3,6 +3,8 @@ nombre_nota: beta reduction
 aliases:
   - beta reduction
   - beta
+  - reduction
+  - application
 letras: hpf
 referencias: "[[TODO/🏛️haskell programming from first principles (9853c).md]]"
 tipo_nota: 📑

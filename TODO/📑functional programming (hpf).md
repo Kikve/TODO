@@ -20,4 +20,5 @@ __Functional programming__ is a computer programming paradigm
 that relies on [[📑function (hpf)|functions]] modeled on __mathematical functions__
 
 [[📑characteristics functional programming (hpf)|characteristics functional programming]]
+[[📑computation consist (hpf)|computation consist]]
 
