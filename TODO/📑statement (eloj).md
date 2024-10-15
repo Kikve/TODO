@@ -2,6 +2,7 @@
 tags: 
 aliases:
   - statement
+  - statements
 tipo: 📑
 referencia: "[[🏛️eloquent javascript (b1018)]]"
 tema:

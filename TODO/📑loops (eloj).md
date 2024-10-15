@@ -17,6 +17,6 @@ parent_hash: a922b
 
 [[📑do (eloj)|do]]
 [[📑while (eloj)|while]]
-
+[[📑for (eloj)|for]]
 
 - [ ] recordar  [start:: 2024-10-14]

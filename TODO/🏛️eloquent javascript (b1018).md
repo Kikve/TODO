@@ -20,7 +20,7 @@ aliases:
 <div>(a922b)</div>
 
 ```dataview
-table file.ctime, file.tasks.text from [[]] sort file.ctime desc
+table hash , file.cday AS tiempo, file.tasks.text as task from [[]] sort file.ctime desc
 
 ```
 
