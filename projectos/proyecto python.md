@@ -205,3 +205,20 @@ not done
 is not blocked
 path includes projectos
 ```
+Este listado te da una guía clara de los libros y proyectos en cada etapa para que puedas avanzar de manera estructurada en tu aprendizaje de JavaScript.
+### **Consejos adicionales:**
+- **Estudia código de otros:** Examina repositorios grandes y open source en GitHub.
+- **Practica entrevistas:** Plantea soluciones a problemas de entrevistas técnicas (e.g., en LeetCode o HackerRank).
+- **Colaboración:** Participa en proyectos de equipo para mejorar habilidades colaborativas.
+
+Aquí tienes los proyectos de cada etapa con las tecnologías específicas que deberías utilizar:
+
+### **Etapa 1: Fundamentos Avanzados**
+**Proyectos:**
+### **Etapa 2: Programación Funcional y Estructuras Avanzadas**
+### **Etapa 3: Asincronía Compleja y Performance**
+**Proyectos:**
+
+### **Etapa 4: Patrones de Diseño y Ecosistema**
+
+Cada proyecto te permite aplicar tecnologías clave de JavaScript, desde lo fundamental hasta herramientas más avanzadas para optimización, asincronía y pruebas.
