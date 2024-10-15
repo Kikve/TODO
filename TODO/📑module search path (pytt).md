@@ -18,7 +18,7 @@ When a [[📑module (pytt)|module]]  is imported, the interpreter first searches
 If not found, it then __searches__ in a list of directories given by the variable __sys.path__ is initialized from these locations:
 
 - The directory containing the input script.
-- __PYTHONPATH__ (a list of directory names, with the same syntax as the shell variable __PATH__).
+- __PYTHONPATH__ (a list of directory names, with the same syntax as the shell variable __PATH__).[[📑sys path (pytt)|sys path]]
 
 - The installation-dependent default (by convention including a __site-packages__ directory, handled by the site  __site Module__ responsible for site-specific configuration.
 

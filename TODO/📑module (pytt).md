@@ -2,6 +2,7 @@
 tags: 
 aliases:
   - module
+  - modules
 tipo: 📑
 referencia: "[[🏛️python tutorial (dcb4c)]]"
 tema:
@@ -27,6 +28,7 @@ __definitions from a module can be imported__  into other __modules__ or into th
 [[📑bound to the module (pytt)|bound to the module]]
 [[📑executing modules (pytt)|executing modules]]
 [[📑module search path (pytt)|module search path]]
+[[📑compiled modules (pytt)|compiled modules]]
 
 
 
