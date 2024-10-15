@@ -21,7 +21,7 @@ hash: bb1ea
 <div class="hash">(bb1ea)</div>
 
 ```dataview
-table file.ctime, file.tasks.text from [[]] sort file.ctime desc
+table hash, file.cday as time, file.tasks.text from [[]] sort file.ctime desc
 
 ```
 

@@ -1,16 +1,18 @@
 ---
-tags: 
-aliases:
-  - control flows
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+nombre_nota: "control flow"
+alias: control flow
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "7f71d6"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
-# control flow
+# 📑control flow
+<div class="hash">(7f71d6)</div>
+
 
 > [!info] 
 The __conditions__ used in `while` and [[📑if statements (pytt)|if]] statements can contain any __operators__, not just [[📑comparison operators (pytt)|comparisons]].

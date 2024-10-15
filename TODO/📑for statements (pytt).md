@@ -1,19 +1,21 @@
 ---
-tags: 
+nombre_nota: "for"
 aliases:
   - for statements
   - for
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)|python tutorial]]"
-tema:
-  - python
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "8399f6"
+parent_hash: "aea5a"
 ---
-[[🔌for]]
+
 #nota/📑
 
+# 📑for
+<div class="hash">(8399f6)</div>
 
-# for 
-
+[[🔌for]]
 
 
 Python’s __for__ statement iterates __over the items of any__ [[📑sequences types (pytt)|sequence]]  in the order that they appear in the [[📑sequences types (pytt)|sequence]]
