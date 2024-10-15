@@ -15,8 +15,12 @@ is not recurring
 > [!NOTE] 
 >```tasks
 >not done
+>path includes projectos/seguimiento
+>
+group by function task.description
 >starts today
->is recurring
+>```
+
 
 ## por aprender
 
@@ -24,9 +28,11 @@ is not recurring
 >```tasks
 not done
 path includes TODO
+group by function task.start.format("YYYY-MM-DD dddd")
 description includes recordar
 >```
 >
+
 
 
 
