@@ -26,17 +26,7 @@ fib(500)
 ```python
 from sound.effects.echo import echofilter
 ```
-
-import all __names__
-
-> [!important] 
-> poorly readable code
->
->```python
-from fibo import *
->
->fib(500)
-0 1 1 2 3 5 8 13 21 34 55 89 144 233 377
->```
+dd
+[[📑import all names (pytt)|import all names]] 
 
 - [ ] recordar  [start:: 2024-10-11]

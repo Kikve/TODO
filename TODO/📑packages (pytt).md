@@ -23,7 +23,8 @@ In the simplest case, `__init__.py` can just be an empty file, but it can also e
 
 
 Users of the package can import individual [[📑module (pytt)|modules]] from the package
-[[📑import names  (pytt)|import names]]
+[[📑import names  (pytt)|import names directly in actual module]]
+
 
 - [ ] recordar  [start:: 2024-10-15]
 
