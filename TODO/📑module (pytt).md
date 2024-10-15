@@ -24,7 +24,7 @@ __definitions from a module can be imported__  into other __modules__ or into th
 -  The __file name__ is the module name with the suffix `.py` appended
 
 [[📑get module name  (pytt)|get module name]]
-[[📑import names from module (pytt)|import names from module]]
+[[📑import names  (pytt)|import names from module]]
 [[📑bound to the module (pytt)|bound to the module]]
 [[📑executing modules (pytt)|executing modules]]
 [[📑module search path (pytt)|module search path]]
