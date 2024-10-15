@@ -19,7 +19,8 @@ parent_hash: "a922b"
 A [[📑function (eloj)|function]] is a piece of  __program wrapped__ in a [[📑values (eloj)|value]]. Such [[📑values (eloj)|values]] can be applied in order to run the __wrapped program__
 >When a [[📑function (eloj)|function]] produces a [[📑values (eloj)|value]], it is said to __return__ that [[📑values (eloj)|value]]
 
-
+[[📑function definition (eloj)|function definition]]
+[[📑arrow function (eloj)|arrow function]]
 
 
 - [ ] recordar  [start:: 2024-10-14]
