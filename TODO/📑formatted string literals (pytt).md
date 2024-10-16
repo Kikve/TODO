@@ -25,5 +25,6 @@ f'Results of the {year} {event}'
 'Results of the 2016 Referendum'
 ```
 
-
+[[📑minimum characters (pytt)|minimum characters]]
+[[📑convert value  (pytt)|convert value]]
 - [ ] recordar  [start:: 2024-10-15]
