@@ -21,9 +21,8 @@ __write()__
 __sys.stdout__
 
 
-output
+## output
 
-The [`str()`](https://docs.python.org/3/library/stdtypes.html#str "str") function is meant to return representations of values which are fairly human-readable, while [`repr()`](https://docs.python.org/3/library/functions.html#repr "repr") is meant to generate representations which can be read by the interprete
-
+[[📑no fancy (pytt)|no fancy output]]
 [[📑fancier output (pytt)|fancier output]]
 [[📑formatted string literals (pytt)|formatted string literals]]
