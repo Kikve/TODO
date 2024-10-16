@@ -1,15 +1,19 @@
 ---
-tags: 
+nombre_nota: "list count"
 aliases:
   - list count
   - count
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "abac5"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
+
+# 📑list count
+<div class="hash">(abac5)</div>
 
 - __list.count(_x_)__
 
@@ -19,3 +23,4 @@ tema:
  
  
 
+- [ ] recordar  [start:: 2024-10-15]

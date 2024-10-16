@@ -1,19 +1,21 @@
 ---
-tags: 
+nombre_nota: "only positional or kyw"
 aliases:
   - positional only
   - only pos or kw
   - only positional or keyword parameters
   - only positional or only keywords
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "9087cb"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
-# only positional or only keywords
+# 📑only positional or kyw
+<div class="hash">(9087cb)</div>
 
 The `/` is used in a  [[📑functions (pytt)|function]] to logically separate the __positional-only parameters__ from the rest of the __parameters__.
 

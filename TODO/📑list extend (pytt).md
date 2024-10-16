@@ -1,16 +1,19 @@
 ---
-tags: 
+nombre_nota: "list extend"
 aliases:
   - list extend
   - extend
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "a1573"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
+# 📑list extend
+<div class="hash">(a1573)</div>
 
 
 - list.extend(_iterable_)
@@ -21,3 +24,5 @@ tema:
  
  
 
+
+- [ ] recordar  [start:: 2024-10-15]

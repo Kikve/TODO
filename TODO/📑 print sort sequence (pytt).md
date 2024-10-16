@@ -1,16 +1,19 @@
 ---
-tags: 
+nombre_nota: "print sort sequence"
 aliases:
   - ex print sort sequence
   - print sort sequence
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)|python tutorial]]"
-tema:
-  - python
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "723aea"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
+# 📑print sort sequence
+<div class="hash">(723aea)</div>
 
 
 
@@ -32,3 +35,9 @@ orange
 orange
 pear
 ```
+
+
+
+
+
+- [ ] recordar  [start:: 2024-10-15]

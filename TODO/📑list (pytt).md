@@ -1,16 +1,19 @@
 ---
-tags: 
+nombre_nota: "list"
 aliases:
   - list
   - lists
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "952342"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
-# list 
+
+# 📑list
+<div class="hash">(952342)</div>
 
 
 

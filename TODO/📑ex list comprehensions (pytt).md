@@ -1,15 +1,19 @@
 ---
-tags: 
+nombre_nota: "ex list comprehensions"
 aliases:
   - ex list compresions
   - examples list comprehensions
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "206a6e"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
+# 📑ex list comprehensions
+<div class="hash">(206a6e)</div>
 
 [[📑list comprehensions (pytt)|list comprehensions]]
 
@@ -44,3 +48,5 @@ vec = [[1,2,3], [4,5,6], [7,8,9]]
 ```
 
 
+
+- [ ] recordar  [start:: 2024-10-15]

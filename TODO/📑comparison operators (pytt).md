@@ -1,18 +1,20 @@
 ---
-tags: 
+nombre_nota: "comparison operators"
 aliases:
   - comparison operators
   - comparison
   - comparisons
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "6b42b4"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
-# comparison operators
+# 📑comparison operators
+<div class="hash">(6b42b4)</div>
 
 
 > [!info] 

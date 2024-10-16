@@ -1,14 +1,18 @@
 ---
-tags: 
-aliases:
-  - list as stacks
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+nombre_nota: "list as stacks"
+alias: list as stacks
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "1fe751"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
+
+# 📑list as stacks
+<div class="hash">(1fe751)</div>
+
 
 [[🔌stack]]
 
@@ -32,3 +36,5 @@ stack
 ```
 
 
+
+- [ ] recordar  [start:: 2024-10-15]

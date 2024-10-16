@@ -1,18 +1,19 @@
 ---
-tags: 
+nombre_nota: "pass statement"
 aliases:
   - pass statement
   - pass
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "85715f"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
-# Pass
-
+# 📑pass statement
+<div class="hash">(85715f)</div>
 
 It can be used when a __statement__ is required syntactically but the _program requires no action_.
 

@@ -1,18 +1,17 @@
 ---
-tags: 
-aliases:
-  - warlus operator
-  - warlus
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+nombre_nota: "warlus"
+alias: warlus
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "51bf6f"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
-# warlus operator 
-
+# 📑warlus
+<div class="hash">(51bf6f)</div>
 
 assignment inside __expressions__ must be done explicitly
 

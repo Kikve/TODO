@@ -1,16 +1,18 @@
 ---
-tags: 
-aliases:
-  - list copy
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+nombre_nota: "list copy"
+alias: list copy
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "b0301"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
-# list copy
+# 📑list copy
+<div class="hash">(b0301)</div>
+
  
 > [!NOTE] 
 >   __list.copy()__

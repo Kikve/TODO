@@ -1,19 +1,25 @@
 ---
-tags: 
+nombre_nota: "operator"
 aliases:
   - operator
   - operators
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "51a1e2"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
-# operator 
+# 📑operator
+<div class="hash">(51a1e2)</div>
 
-- [ ] recordar  [start:: 2024-10-11]
+
 
 [[📑warlus operator (pytt)|warlus]]
 
+
+
+
+- [ ] recordar  [start:: 2024-10-11]

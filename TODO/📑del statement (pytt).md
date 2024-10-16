@@ -1,14 +1,18 @@
 ---
-tags: 
-aliases:
-  - del statement
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+nombre_nota: "del statement"
+alias: del statement
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "211d09"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
+
+# 📑del statement
+<div class="hash">(211d09)</div>
+
 
 
 This differs from the  [[📑list pop (pytt)|pop]]method which returns a value. The  __del statement__ can also be used to remove slices from a list or clear the entire list
@@ -34,3 +38,8 @@ a
 ```python
 del a
 ```
+
+
+
+
+- [ ] recordar  [start:: 2024-10-15]

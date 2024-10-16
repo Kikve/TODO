@@ -1,16 +1,18 @@
 ---
-tags: 
+nombre_nota: "range"
 aliases:
   - range
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "80e373"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
-# Range
+# 📑range
+<div class="hash">(80e373)</div>
 
 
 ```python

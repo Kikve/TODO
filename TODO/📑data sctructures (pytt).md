@@ -1,18 +1,20 @@
 ---
-tags: 
-aliases:
-  - data structures
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+nombre_nota: "data structures"
+alias: data structures
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "5140ca"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
-# data sctructures (pytt)
+# 📑data structures
+<div class="hash">(5140ca)</div>
 
-- [ ] recordar  [start:: 2024-10-11]
 
 
 [[📑sequences types (pytt)|sequences]]
+
+- [ ] recordar  [start:: 2024-10-11]

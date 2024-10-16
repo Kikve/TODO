@@ -1,16 +1,19 @@
 ---
-tags: 
+nombre_nota: "ex dictionary"
 aliases:
   - ex dictionary
   - dictionary examples
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "500538"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
+# 📑ex dictionary
+<div class="hash">(500538)</div>
 
 ejemplos de [[📑dictionaries (pytt)|dictionary]]
 ```python

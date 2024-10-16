@@ -19,7 +19,6 @@ hash: aea5a
 # 🏛️python tutorial
 <div>(aea5a)</div>
 
-
 ```dataview
 table  hash ,file.cday as tiempo, file.tasks.text as task from [[]] sort file.ctime desc
 

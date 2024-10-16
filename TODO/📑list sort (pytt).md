@@ -1,17 +1,19 @@
 ---
-tags: 
+nombre_nota: "list sort"
 aliases:
   - list sort
   - sort
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "ad619"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
-
+# 📑list sort
+<div class="hash">(ad619)</div>
 
 
 - list.sort(_*_, _key=None_, _reverse=False_)

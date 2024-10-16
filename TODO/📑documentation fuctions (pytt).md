@@ -1,17 +1,19 @@
 ---
-tags: 
+nombre_nota: "documentation functions"
 aliases:
   - documentation functions
   - documentation on functions
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "94e7cf"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
-# Documetation Functions
+# 📑documentation functions
+<div class="hash">(94e7cf)</div>
 
 ## First line 
 

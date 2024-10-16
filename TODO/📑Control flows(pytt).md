@@ -20,7 +20,7 @@ The __conditions__ used in `while` and [[📑if statements (pytt)|if]] statement
 [[📑if statements (pytt)|if statement]]
 [[📑range (pytt)|range]]
 [[📑for statements (pytt)|for statements]]
-[[📑else cluases on loops (pytt)|else cluases on loops]]
+[[📑else clauses on loops (pytt)|else cluases on loops]]
 [[📑pass statement (pytt)|pass]]
 [[📑match statement (pytt)|match statement]]
 

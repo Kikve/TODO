@@ -1,21 +1,23 @@
 ---
-tags: 
-aliases:
-  - list comprehensions
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+nombre_nota: "list comprehensions"
+alias: list comprehensions
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "202bdb"
+parent_hash: "aea5a"
 ---
 
-
 #nota/📑
+
+# 📑list comprehensions
+<div class="hash">(202bdb)</div>
 
 List comprehensions provide a concise way to create [[📑list (pytt)|list]]
 
 
 - [[📑ex list comprehensions (pytt)|examples list comprehensions]]
-- [[📑nested list compresions (pytt)|nested list compresions]]
+- [[📑nested list comprehensions (pytt)|nested list compresions]]
 - [[📑errores list comprehensions (pytt)|errores list comprehensions]]
 - [[📑sets (pytt)|sets]]
 
@@ -38,3 +40,5 @@ The result will be a new [[📑list (pytt)|list]] resulting from evaluating the 
 ```
 
 
+
+- [ ] recordar  [start:: 2024-10-15]

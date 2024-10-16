@@ -1,14 +1,17 @@
 ---
-tags: 
-aliases:
-  - loop unique elements
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+nombre_nota: "loop unique elements"
+alias: loop unique elements
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "6c9bcd"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
+
+# 📑loop unique elements
+<div class="hash">(6c9bcd)</div>
 
 
 
@@ -29,3 +32,5 @@ banana
 orange
 pear
 ```
+
+- [ ] recordar  [start:: 2024-10-15]

@@ -1,17 +1,19 @@
 ---
-tags: 
+nombre_nota: "list pop"
 aliases:
   - list pop
   - pop
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "a6c5d"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
-# pop
+# 📑list pop
+<div class="hash">(a6c5d)</div>
 
 
 > [!definition] 

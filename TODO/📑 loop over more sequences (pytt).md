@@ -1,16 +1,20 @@
 ---
-tags: 
+nombre_nota: "loop over more sequences"
+alias: loop over more sequences
 aliases:
   - ex loop more sequences 2+
   - loop more sequences at the same time
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "76f331"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
+# 📑loop over more sequences
+<div class="hash">(76f331)</div>
 
 
 
@@ -31,3 +35,5 @@ What is your quest?  It is the holy grail.
 What is your favorite color?  It is blue.
 ```
 
+
+- [ ] recordar  [start:: 2024-10-15]

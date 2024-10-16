@@ -1,16 +1,20 @@
 ---
-tags: 
+nombre_nota: "match statement"
+alias: match statement
 aliases:
   - match statement
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+  - match
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "86e6a5"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
-# Match
+# 📑match statement
+<div class="hash">(86e6a5)</div>
 
 A    [[📑match statement (pytt)|match statement]] takes an __expression__ and compares its value to _successive patterns_ given as one or more case block
 

@@ -1,16 +1,18 @@
 ---
-tags: 
+nombre_nota: "keyword arguments"
 aliases:
   - keyword arguments
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "8babf9"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
-# keyword arguments
+# 📑keyword arguments
+<div class="hash">(8babf9)</div>
 
 
 [[📑functions (pytt)|functions]] can also be called using   [[📑keyword arguments (pytt)|keyword arguments]] of the form `kwarg=value`. 

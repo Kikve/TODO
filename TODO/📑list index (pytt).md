@@ -1,15 +1,19 @@
 ---
-tags: 
+nombre_nota: "list index"
 aliases:
   - list index
   - index
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "a9cf9"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
+
+# 📑list index
+<div class="hash">(a9cf9)</div>
 
 -  __list.index(x\[, start\[, end\])__
 
@@ -19,3 +23,5 @@ tema:
 
  
  
+
+- [ ] recordar  [start:: 2024-10-15]

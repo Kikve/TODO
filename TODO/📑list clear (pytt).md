@@ -1,17 +1,20 @@
 ---
-tags: 
+nombre_nota: "list clear"
 aliases:
   - list clear
   - clear
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "a84f7"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
-# clear
+# 📑list clear
+<div class="hash">(a84f7)</div>
+
 
 
 		

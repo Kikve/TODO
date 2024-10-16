@@ -1,17 +1,23 @@
 ---
-tags: 
+nombre_nota: "example list methods"
 aliases:
   - ex list methods
   - example list methods
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "b4f98"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
-# example list methods
 
+# 📑example list methods
+<div class="hash">(b4f98)</div>
+
+- [ ] recordar  [start:: 2024-10-12]
+
+### Example
 ```python
 
 fruits = ['orange', 'apple', 'pear', 'banana', 'kiwi', 'apple', 'banana']
@@ -35,5 +41,3 @@ fruits
 fruits.pop()
 ```
 
-
-- [ ] recordar  [start:: 2024-10-12]

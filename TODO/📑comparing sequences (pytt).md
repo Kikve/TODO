@@ -1,18 +1,20 @@
 ---
-tags: 
-aliases:
-  - comparing sequences
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+nombre_nota: "comparing sequences"
+alias: comparing sequences
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "51706d"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
-# comparing sequences (pytt)
+# 📑comparing sequences
+<div class="hash">(51706d)</div>
 
-- [ ] recordar  [start:: 2024-10-11]
+
+
 
 [[🔌sequences types|sequence]]  __objects__ typically may be compared ([[📑comparison operators (pytt)|comparison operators]]) to other __objects__ with the same sequence type. The comparison uses __lexicographical ordering__
 
@@ -34,3 +36,5 @@ tema:
 ```
 
 
+
+- [ ] recordar  [start:: 2024-10-15]

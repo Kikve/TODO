@@ -1,15 +1,17 @@
 ---
-tags: 
-aliases:
-  - errores list comprehensions
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)|python tutorial]]"
-tema:
-  - python
+nombre_nota: "errores list comprehensions"
+alias: errores list comprehensions
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "20fcee"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
+# 📑errores list comprehensions
+<div class="hash">(20fcee)</div>
 
 ##  Errors
 ```python
@@ -22,3 +24,4 @@ SyntaxError: did you forget parentheses around the comprehension target?
 
 ```
 
+- [ ] recordar  [start:: 2024-10-15]

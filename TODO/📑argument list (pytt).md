@@ -1,16 +1,21 @@
 ---
-tags: 
-aliases:
-  - argument list
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+nombre_nota: "argument list"
+alias: argument list
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "683c59"
+parent_hash: "aea5a"
 ---
+
 #nota/📑
 
+# 📑argument list
+<div class="hash">(683c59)</div>
 
-# argument list
+
+
+
 
 specify that a [[📑functions (pytt)|function]] can be called with an arbitrary number of __arguments__.
 

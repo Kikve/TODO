@@ -1,19 +1,21 @@
 ---
-tags: 
+nombre_nota: "lambda expressions"
 aliases:
   - lamba expressions
   - lambda
   - lambda keyword
   - lambda functions
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "94b38a"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
-# lambda 
+# 📑lambda expressions
+<div class="hash">(94b38a)</div>
 
 
 anonymous functions can be created with the  [[📑lamba expressions (pytt)|lambda keyword]] 

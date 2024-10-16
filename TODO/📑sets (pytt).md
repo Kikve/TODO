@@ -1,17 +1,19 @@
 ---
-tags: 
+nombre_nota: "sets"
 aliases:
   - sets
   - set
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "2138cc"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
-# sets
+# 📑sets
+<div class="hash">(2138cc)</div>
 
 
 - A set is an unordered collection with no duplicate elements.
@@ -44,3 +46,7 @@ a & b                              # letters in both a and b
 a ^ b                              # letters in a or b but not both
 {'r', 'd', 'b', 'm', 'z', 'l'}
 ```
+
+
+
+- [ ] recordar  [start:: 2024-10-15]

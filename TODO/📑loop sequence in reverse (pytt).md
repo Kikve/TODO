@@ -1,16 +1,20 @@
 ---
-tags: 
+nombre_nota: "loop sequence in reverse"
 aliases:
   - ex loop sequence in reverse
   - loop sequence in reverse
   - sequence in reverse
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "729c62"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
+
+# 📑loop sequence in reverse
+<div class="hash">(729c62)</div>
 
 
 
@@ -29,3 +33,5 @@ for i in reversed(range(1, 10, 2)):
 3
 ```
 
+
+- [ ] recordar  [start:: 2024-10-15]

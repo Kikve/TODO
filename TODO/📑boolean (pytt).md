@@ -1,16 +1,20 @@
 ---
-tags: 
+nombre_nota: "boolean"
 aliases:
   - boolean
   - boolean type
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "6b0dea"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
-# boolean 
+# 📑boolean
+<div class="hash">(6b0dea)</div>
 
 
+
+- [ ] recordar  [start:: 2024-10-15]

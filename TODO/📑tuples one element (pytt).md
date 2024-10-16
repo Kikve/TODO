@@ -1,17 +1,17 @@
 ---
-tags: 
-aliases:
-  - tuples one element
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+nombre_nota: "tuples one element"
+alias: tuples one element
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "21a3a8"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
-
-
+# 📑tuples one element
+<div class="hash">(21a3a8)</div>
 
 > [!NOTE] 
 > 
@@ -33,3 +33,5 @@ singleton
 ('hello',)
 ```
 
+
+- [ ] recordar  [start:: 2024-10-15]

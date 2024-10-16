@@ -1,19 +1,19 @@
 ---
-nombre_nota: executing modules
+nombre_nota: "executing modules"
 aliases:
   - executing modules
   - modules as scripts
-letras: pytt
+letras: "pytt"
 referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
-tipo_nota: 📑
-hash: 4c77d9
-parent_hash: aea5a
+tipo_nota: "📑"
+hash: "4fda2c"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
 # 📑executing modules
-<div class="hash">(4c77d9)</div>
+<div class="hash">(4fda2c)</div>
 
 
 the code in the [[📑module (pytt)|module]] will be executed, just as if you __imported__ it

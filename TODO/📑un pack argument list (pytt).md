@@ -1,16 +1,17 @@
 ---
-tags: 
-aliases:
-  - un pack argument list
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+nombre_nota: "un pack argument list"
+alias: un pack argument list
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "9464ff"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
-# unpack argument list
+# 📑un pack argument list
+<div class="hash">(9464ff)</div>
 
 The __arguments__ are already in a [[📑list (pytt)|list]] or [[📑tuples (pytt)|tuples]] but need to be unpacked for a [[📑functions (pytt)|function]] call that is  requiring separate __positional arguments__
 

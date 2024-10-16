@@ -1,18 +1,20 @@
 ---
-tags: 
+nombre_nota: "bound to the module"
 aliases:
   - bound to the module
   - bound name to the module
   - bound to the imported module
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "507814"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
-# bound to the module 
+# 📑bound to the module
+<div class="hash">(507814)</div>
 
 
 

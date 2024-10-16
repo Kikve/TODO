@@ -1,17 +1,19 @@
 ---
-tags: 
+nombre_nota: "list append"
 aliases:
   - list append
   - append
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "9ef1c"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
-# append
+# 📑list append
+<div class="hash">(9ef1c)</div>
 
 _Add an item_ to the end of the [[📑list (pytt)|list]]. 
 

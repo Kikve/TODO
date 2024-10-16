@@ -1,18 +1,20 @@
 ---
-tags: 
+nombre_nota: "deque"
 aliases:
   - deque
   - collections.deque
   - queue
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "200062"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
-
+# 📑deque
+<div class="hash">(200062)</div>
 
 designed to have fast appends and pops from both end   __collections.deque__
 
@@ -31,3 +33,4 @@ queue                           # Remaining queue in order of arrival
 deque(['Michael', 'Terry', 'Graham'])
 ```
 
+- [ ] recordar  [start:: 2024-10-15]

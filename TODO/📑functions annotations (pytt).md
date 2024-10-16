@@ -1,18 +1,17 @@
 ---
-tags: 
-aliases:
-  - functions annotations
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+nombre_nota: "functions annotations"
+alias: functions annotations
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "950928"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
-
-# function annotations
-
+# 📑functions annotations
+<div class="hash">(950928)</div>
 
 
 > [!definition] 

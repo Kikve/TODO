@@ -1,18 +1,18 @@
 ---
-tags: 
-aliases:
-  - tuples
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+nombre_nota: "tuples"
+alias: tuples
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "212ab7"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
+# 📑tuples
+<div class="hash">(212ab7)</div>
 [[🔌sequence data types]]
-# Tuples 
-
 
 
 > [!NOTE] 
@@ -58,3 +58,5 @@ v
 x, y, z = t
 ```
 
+
+- [ ] recordar  [start:: 2024-10-15]

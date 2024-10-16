@@ -1,16 +1,17 @@
 ---
-tags: 
-aliases:
-  - else clauses on loops
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+nombre_nota: "else clauses on loops"
+alias: else clauses on loops
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "840da2"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
-# else clauses on loops
+# 📑else clauses on loops
+<div class="hash">(840da2)</div>
 
 
 In a [[📑for statements (pytt)|for ]] or `while` __loop__ the `break` __statement__ may be paired with an `else` clause. If the loop finishes without executing the `break`, the `else` clause executes.

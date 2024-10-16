@@ -1,17 +1,18 @@
 ---
-tags: 
+nombre_nota: "default arguments"
 aliases:
   - default arguments
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "8a13b1"
+parent_hash: "aea5a"
 ---
-
 
 #nota/📑
 
-# default arguments
+# 📑default arguments
+<div class="hash">(8a13b1)</div>
 
 ```python
 def ask_ok(prompt, retries=4, reminder='Please try again!'):

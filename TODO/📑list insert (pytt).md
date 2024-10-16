@@ -1,19 +1,19 @@
 ---
-tags: 
+nombre_nota: "list insert"
 aliases:
   - list insert
   - insert
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "a31d2"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
-
-# insert 
-
+# 📑list insert
+<div class="hash">(a31d2)</div>
 
 > [!definition] 
 > list.insert(_i_, _x_)

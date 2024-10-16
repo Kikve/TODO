@@ -1,14 +1,17 @@
 ---
-tags: 
-aliases:
-  - looping dictionaries
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+nombre_nota: "looping dictionaries"
+alias: looping dictionaries
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "235d3f"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
+
+# 📑looping dictionaries
+<div class="hash">(235d3f)</div>
 
 
 > [!NOTE] 
@@ -25,3 +28,8 @@ for k, v in knights.items():
 gallahad the pure
 robin the brave
 ```
+
+
+
+
+- [ ] recordar  [start:: 2024-10-15]

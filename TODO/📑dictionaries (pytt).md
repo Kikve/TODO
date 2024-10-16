@@ -1,17 +1,20 @@
 ---
-tags: 
+nombre_nota: "dictionaries"
 aliases:
   - dictionaries
   - dictionary
-tipo: 📑
-referencia: "[[🏛️python tutorial (dcb4c)]]"
-tema:
-  - python
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "220ea1"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
-# Dictionary
+# 📑dictionaries
+<div class="hash">(220ea1)</div>
+
 
 
 > [!NOTE] 
