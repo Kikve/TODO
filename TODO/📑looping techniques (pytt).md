@@ -1,11 +1,12 @@
 ---
-nombre_nota: "lopping techniques"
-alias: lopping techniques
-letras: "pytt"
+nombre_nota: lopping techniques
+aliases:
+  - looping techniques
+letras: pytt
 referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
-tipo_nota: "📑"
-hash: "231d4e"
-parent_hash: "aea5a"
+tipo_nota: 📑
+hash: 231d4e
+parent_hash: aea5a
 ---
 
 #nota/📑

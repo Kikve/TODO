@@ -27,4 +27,5 @@ f'Results of the {year} {event}'
 
 [[📑minimum characters (pytt)|minimum characters]]
 [[📑convert value  (pytt)|convert value]]
+[[📑expand expression string literal (pytt)|expand expression]]
 - [ ] recordar  [start:: 2024-10-15]

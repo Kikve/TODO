@@ -37,7 +37,9 @@ We apply the function above to 2
 
 > [!NOTE] 
 We can also apply our identity function to another [[📑abstraction (hpf)|lambda abstraction]]:
+>
 >![[Pasted image 20241013205225.png|300]]
+>
 >![[Pasted image 20241013205503.png|300]]
 
 Applications in the [[📑lambda calculus (hpf)|lambda calculus]] __are left associative__. That

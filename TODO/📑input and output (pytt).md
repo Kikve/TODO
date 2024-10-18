@@ -25,4 +25,3 @@ __sys.stdout__
 
 [[📑no fancy (pytt)|no fancy output]]
 [[📑fancier output (pytt)|fancier output]]
-[[📑formatted string literals (pytt)|formatted string literals]]

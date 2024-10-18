@@ -26,9 +26,12 @@ they are [[📑expression (hpf)|expressions]] that are applied to an argument or
 - all [[📑function (hpf)|functions]] in [[📑haskell (hpf)|haskell]] take one argument and return one result -> [[📑currying (hpf)|currying]]
 - The relationship between the input, 𝑥, and the output is described in the [[📑function (hpf)|function]] body
 
-- __functions__  — is a mapping of a __set of inputs to a set of outputs__
+- [[📑function (hpf)|functions]]  — is a mapping of a __set of inputs to a set of outputs__
 
 
+[[📑evaluation (hpf)|evaluation]]
+[[📑function (hpf)|functions]] in Haskell default to [[📑prefix syntax (hpf)|prefix syntax]]
+[[📑infix syntax (hpf)|infix]]
 
 
 

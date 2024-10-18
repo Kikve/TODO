@@ -1,15 +1,12 @@
 ---
-nombre_nota: "sequences types"
-alias: sequences types
+nombre_nota: sequences types
 aliases:
   - sequences types
-  - sequences
-  - sequence
-letras: "pytt"
-referencias: "[[TODO/📑mapping types (pytt) 1.md]]"
-tipo_nota: "📑"
-hash: "22526e"
-parent_hash: "aea5a"
+letras: pytt
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: 📑
+hash: 22526e
+parent_hash: aea5a
 ---
 
 #nota/📑
@@ -23,6 +20,9 @@ parent_hash: "aea5a"
 [[📑list (pytt)|list]]
 [[📑tuples (pytt)|tuples]]
 [[📑list comprehensions (pytt)|list comprehensions]]
+[[📑range (pytt)|range]]
+
+[[📑del statement (pytt)|del statement]]
 
 
 

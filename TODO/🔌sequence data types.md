@@ -11,5 +11,7 @@ tipo: 🔌
 # sequence data types
 
 
+[[📑sequences types (pytt)]]
+
 
 
