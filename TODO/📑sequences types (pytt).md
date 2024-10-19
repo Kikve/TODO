@@ -16,14 +16,13 @@ parent_hash: aea5a
 
 
 
-
 [[📑list (pytt)|list]]
+[[📑deque (pytt)|queue]]
 [[📑tuples (pytt)|tuples]]
 [[📑list comprehensions (pytt)|list comprehensions]]
 [[📑range (pytt)|range]]
 
 [[📑del statement (pytt)|del statement]]
-
 
 
 - [ ] recordar  [start:: 2024-10-15]

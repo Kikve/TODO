@@ -8,8 +8,8 @@ tipo: 🔌
 
 #nota/🔌
 
-[[📑unitest(psl)|unitest]]
-[[📑unitTest(pcc)|unitTest]]
+[[📑unitest(psl)]]
+[[📑unitTest(pcc)]]
 
 
 

@@ -17,7 +17,7 @@ parent_hash: "aea5a"
 <div class="hash">(200062)</div>
 
 designed to have fast appends and pops from both end   __collections.deque__
-
+[[📑list (pytt)|list]]
 
 ```python
 from collections import deque

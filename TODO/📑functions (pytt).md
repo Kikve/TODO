@@ -15,7 +15,8 @@ parent_hash: "aea5a"
 # 📑functions
 <div class="hash">(888d88)</div>
 
-The keyword  __def__ introduces a __function__ _definition_. It must be followed by the __function__ name and the parenthesized list of __parameters__. The __statements__ that form the body of the function start at the next line, and must be indented
+The keyword  __def__ introduces a [[📑functions (pytt)|function]] _definition_. It must be followed by the [[📑functions (pytt)|function]] name and the parenthesized list of __parameters__. The __statements__ that form the body of the [[📑functions (pytt)|function]] start at the next line, and must be indented
+
 
 [[📑default arguments (pytt)|default arguments]]
 [[📑keyword arguments (pytt)|keyword arguments]]

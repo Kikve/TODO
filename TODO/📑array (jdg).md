@@ -12,6 +12,7 @@ parent_hash: "56db7"
 
 # 📑array
 <div class="hash">(637dcd)</div>
+
 [[📑array (jdg)|array]],[[📑object type (jdg)|object]] that represents an ordered collection of numbered value
 
 

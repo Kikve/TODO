@@ -18,6 +18,7 @@ parent_hash: "aea5a"
 [[📑sequences types (pytt)|sequences]]
 [[📑dictionaries (pytt)|dictionaries]]
 [[📑sets (pytt)|sets]]
+[[📑dataclass (pytt)|dataclass]]
 
 [[📑looping techniques (pytt)|looping techniques]]
 - [ ] recordar  [start:: 2024-10-11]

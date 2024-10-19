@@ -18,7 +18,7 @@ parent_hash: 56db7
 
 A [[📑literals (jdg)|literal]] is a data value that appears directly in a program
 
-
-
+[[📑numeric literal (jdg)|numeric literal]]
+[[📑string literal (jdg)|string literal]]
 
 - [ ] recordar  [start:: 2024-10-16]

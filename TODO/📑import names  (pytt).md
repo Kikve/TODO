@@ -14,7 +14,7 @@ tema:
 # import names
 
 
-imports __names__ from a [[📑module (pytt)|module]] or [[📑packages (pytt)|package]] directly into the importing module’s namespace.
+imports __names__([[📑namespace (pytt)|namespace]]) from a [[📑module (pytt)|module]] or [[📑packages (pytt)|package]] directly into the importing module’s namespace.
 
 ```python
 from fibo import fib, fib2

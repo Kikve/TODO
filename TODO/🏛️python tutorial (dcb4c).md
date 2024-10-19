@@ -12,8 +12,6 @@ reduccion: pytt
 tipo_nota: 🏛️
 hash: aea5a
 ---
-
-
 #nota/🏛️
 
 
@@ -24,5 +22,7 @@ hash: aea5a
 table  hash ,file.cday as tiempo, file.tasks.text as task from [[]] sort file.ctime desc
 
 ```
+
+
 
 

@@ -25,6 +25,13 @@ class DerivedClassName(BaseClassName):
     <statement-N>
 ```
 
+__isinstance()__
+to check an instance’s type: `isinstance(obj, int)` will be `True` only if `obj.__class__` is __int__ or some class derived from __int__
 
+__issubclass()__ 
+to check class inheritance: `issubclass(bool, int)` is `True` since  "bool") is a __bool__ subclass of __int__  
+
+
+[[📑multiple inheritance (pytt)|multiple inheritance]]
 
 - [ ] recordar  [start:: 2024-10-17]

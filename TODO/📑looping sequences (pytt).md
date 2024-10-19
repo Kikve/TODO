@@ -20,7 +20,7 @@ parent_hash: "aea5a"
 [[📑 loop sequences index value (pytt)|sequences with index value]]
 [[📑 loop over more sequences (pytt)| more sequences at the same time]]
 [[📑loop sequence in reverse (pytt)|sequence in reverse]]
-[[📑 print sort sequence (pytt)|print sort sequence]]
+[[📑print sort sequence (pytt)|print sort sequence]]
 
 [[📑loop unique elements (pytt)|loop unique elements]]
 
