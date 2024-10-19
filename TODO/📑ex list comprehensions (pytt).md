@@ -49,4 +49,4 @@ vec = [[1,2,3], [4,5,6], [7,8,9]]
 
 
 
-- [ ] recordar  [start:: 2024-10-15]
+- [x] recordar  [start:: 2024-10-15]  [completion:: 2024-10-19]

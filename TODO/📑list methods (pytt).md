@@ -37,4 +37,4 @@ Only modify the [[📑list (pytt)|list]] have no return value, they return __Non
 [[📑list index (pytt)|index]]
 [[📑list insert (pytt)|list insert]]
 
-- [ ] recordar  [start:: 2024-10-12]
+- [x] recordar  [start:: 2024-10-12]  [completion:: 2024-10-19]

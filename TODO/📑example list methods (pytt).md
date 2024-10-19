@@ -15,7 +15,7 @@ parent_hash: "aea5a"
 # 📑example list methods
 <div class="hash">(b4f98)</div>
 
-- [ ] recordar  [start:: 2024-10-12]
+- [x] recordar  [start:: 2024-10-12]  [completion:: 2024-10-19]
 
 ### Example
 ```python

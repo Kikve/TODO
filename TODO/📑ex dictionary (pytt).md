@@ -49,4 +49,4 @@ False
 
 ```
 
-- [ ] recordar  [start:: 2024-10-13]
+- [x] recordar  [start:: 2024-10-13]  [completion:: 2024-10-19]

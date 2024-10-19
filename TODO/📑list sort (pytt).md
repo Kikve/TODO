@@ -28,4 +28,4 @@ not all data can be sorted or compared.
  For instance, `[None, 'hello', 10]` doesn’t sort because __integers__ can’t be compared to __strings__ and `None` can’t be compared to other types.
 
 
-- [ ] recordar  [start:: 2024-10-12]
+- [x] recordar  [start:: 2024-10-12]  [completion:: 2024-10-19]

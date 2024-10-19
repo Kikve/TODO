@@ -12,6 +12,7 @@ parent_hash: "aea5a"
 
 # 📑tuples
 <div class="hash">(212ab7)</div>
+
 [[🔌sequence data types]]
 
 
@@ -59,4 +60,4 @@ x, y, z = t
 ```
 
 
-- [ ] recordar  [start:: 2024-10-15]
+- [x] recordar  [start:: 2024-10-15]  [completion:: 2024-10-19]

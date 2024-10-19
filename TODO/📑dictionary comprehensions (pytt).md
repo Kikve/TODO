@@ -28,4 +28,4 @@ create [[📑dictionaries (pytt)|dictionaries]] with [[📑list comprehensions (
 
 
 
-- [ ] recordar  [start:: 2024-10-15]
+- [x] recordar  [start:: 2024-10-15]  [completion:: 2024-10-19]

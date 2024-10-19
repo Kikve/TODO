@@ -24,4 +24,4 @@ def write_multiple_items(file, separator, *args):
     file.write(separator.join(args))
 ```
 
-- [ ] recordar  [start:: 2024-10-12]
+- [x] recordar  [start:: 2024-10-12]  [completion:: 2024-10-19]

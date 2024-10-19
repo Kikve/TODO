@@ -1,16 +1,19 @@
 ---
-tags: 
+nombre_nota: "loop sequences index value"
 aliases:
   - ex loop sequences index value (pytt)
   - loop sequences with index value
-tipo: 📑
-referencia: 
-tema:
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "3f1885"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
-
+# 📑loop sequences index value
+<div class="hash">(3f1885)</div>
 
 
 > [!NOTE] index and value
@@ -29,3 +32,4 @@ for i, v in enumerate(['tic', 'tac', 'toe']):
 
  ```
 
+- [x] recordar  [start:: 2024-10-19]  [completion:: 2024-10-19]

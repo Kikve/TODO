@@ -28,4 +28,4 @@ dict([('sape', 4139), ('guido', 4127), ('jack', 4098)])
 
 
 
-- [ ] recordar  [start:: 2024-10-15]
+- [x] recordar  [start:: 2024-10-15]  [completion:: 2024-10-19]

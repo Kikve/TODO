@@ -24,4 +24,4 @@ SyntaxError: did you forget parentheses around the comprehension target?
 
 ```
 
-- [ ] recordar  [start:: 2024-10-15]
+- [x] recordar  [start:: 2024-10-15]  [completion:: 2024-10-19]

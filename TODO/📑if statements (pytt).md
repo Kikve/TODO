@@ -32,4 +32,4 @@ else:
 
 
 
-- [x] recordar  [start:: 2024-10-12]  [completion:: 2024-10-12]
+- [ ] recordar  [start:: 2024-10-12]

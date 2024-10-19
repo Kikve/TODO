@@ -17,7 +17,7 @@ parent_hash: "aea5a"
 
 
 
-[[📑list (pytt)|list]] are __m## he `del` statemenutable__   and their _elements are usually homogeneous_ and are accessed by iterating over the [[📑list (pytt)|list]].
+[[📑list (pytt)|list]] are [[📑data sctructures (pytt)|data structures]] he `del` statemenutable__   and their _elements are usually homogeneous_ and are accessed by iterating over the [[📑list (pytt)|list]].
 
 - __appends and pops__ from the end of list are fast,
 

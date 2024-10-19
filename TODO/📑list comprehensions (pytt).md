@@ -19,10 +19,10 @@ List comprehensions provide a concise way to create [[📑list (pytt)|list]]
 - [[📑ex list comprehensions (pytt)|examples list comprehensions]]
 - [[📑nested list comprehensions (pytt)|nested list compresions]]
 - [[📑errores list comprehensions (pytt)|errores list comprehensions]]
-- [[📑sets (pytt)|sets]]
+[[📑set list comprehension (pytt)|set list comprehension]]
 
 
-Operations applied to each member of another sequence or iterable, or to create a subsequence of those elements that satisfy a certain condition.
+Operations applied to each member of another sequence or iterable([[📑iterator (pytt)|iterator]]), or to create a subsequence of those elements that satisfy a certain condition.
 
 
 ```python
