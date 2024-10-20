@@ -41,4 +41,4 @@ The result will be a new [[📑list (pytt)|list]] resulting from evaluating the 
 
 
 
-- [ ] recordar  [start:: 2024-10-15]
+- [x] recordar  [start:: 2024-10-15]  [completion:: 2024-10-19]

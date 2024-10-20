@@ -16,7 +16,7 @@ parent_hash: 56db7
 <div class="hash">(5c6711)</div>
 
 
-Any JavaScript __value__ that is not a __number__, a __string__, a __boolean__, a __symbol__, __null__, or __unde fined__ is an [[📑object type (jdg)|object]].
+Any JavaScript __value__ that is not a [[📑number (jdg)|number]], a __string__, a __boolean__, a __symbol__, __null__, or __unde fined__ is an [[📑object type (jdg)|object]].
 
 [[📑object type (jdg)|object]] are mutable
 

@@ -23,4 +23,4 @@ The __conditions__ used in `while` and [[📑if statements (pytt)|if]] statement
 [[📑else clauses on loops (pytt)|else cluases on loops]]
 [[📑match statement (pytt)|match statement]]
 
-- [ ] recordar  [start:: 2024-10-12]
+- [x] recordar  [start:: 2024-10-12]  [completion:: 2024-10-19]

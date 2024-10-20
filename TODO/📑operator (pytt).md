@@ -22,4 +22,4 @@ parent_hash: "aea5a"
 
 
 
-- [ ] recordar  [start:: 2024-10-11]
+- [x] recordar  [start:: 2024-10-11]  [completion:: 2024-10-19]

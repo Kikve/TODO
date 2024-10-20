@@ -1,17 +1,20 @@
 ---
-tags: 
+nombre_nota: "import names"
 aliases:
   - import names from module
   - import names directly in actual module
   - import names
-tipo: 📑
-referencia: 
-tema:
+letras: "pytt"
+referencias: "[[TODO/🏛️python tutorial (dcb4c).md]]"
+tipo_nota: "📑"
+hash: "3a8748"
+parent_hash: "aea5a"
 ---
 
 #nota/📑
 
-# import names
+# 📑import names
+<div class="hash">(3a8748)</div>
 
 
 imports __names__([[📑namespace (pytt)|namespace]]) from a [[📑module (pytt)|module]] or [[📑packages (pytt)|package]] directly into the importing module’s namespace.
@@ -26,7 +29,7 @@ fib(500)
 ```python
 from sound.effects.echo import echofilter
 ```
-dd
+
 [[📑import all names (pytt)|import all names]] 
 
-- [ ] recordar  [start:: 2024-10-11]
+- [x] recordar  [start:: 2024-10-11]  [completion:: 2024-10-19]

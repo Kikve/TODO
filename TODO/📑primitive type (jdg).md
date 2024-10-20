@@ -14,14 +14,14 @@ parent_hash: "56db7"
 <div class="hash">(5c5258)</div>
 
 
-include __numbers__, __strings__ of text (known as strings), and __Boolean__ truth values (known as booleans).
+include [[📑number (jdg)|numbers]], [[📑string (jdg)|string]] of text (known as strings), and [[📑boolean (jdg)|boolean]] truth values (known as booleans).
 
 
 [[📑primitive type (jdg)|primitive type]] are inmutable
-__null__ and __undefined__ are primitive values, but they are
+[[📑null (jdg)|null]] and [[📑undefined (jdg)|undefined]] are primitive values, but they are
 not numbers, strings, or booleans
 
-new special-purpose type, known as __Symbol__
+new special-purpose type, known as [[📑Symbol (jdg)|Symbol]]
 
 
 - [ ] recordar  [start:: 2024-10-17]

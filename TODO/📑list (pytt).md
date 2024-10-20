@@ -33,4 +33,4 @@ parent_hash: "aea5a"
 [[📑list comprehensions (pytt)|list comprehensions]]
 
 
-- [ ] recordar  [start:: 2024-10-12]
+- [x] recordar  [start:: 2024-10-12]  [completion:: 2024-10-19]

@@ -17,7 +17,9 @@ parent_hash: "aea5a"
 [[📑Control flows(pytt)|control flow]]
 [[📑data sctructures (pytt)|data structures]]
 [[📑functions (pytt)|functions]]
+[[📑looping techniques (pytt)|looping techniques]]
 
+[[📑operator (pytt)|operator]]
 [[📑module (pytt)|modules]]
 [[📑exception (pytt)|exception]]
 [[📑input and output (pytt)|input and output]]

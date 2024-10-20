@@ -13,4 +13,4 @@ parent_hash: "aea5a"
 # 📑reversed
 <div class="hash">(23bc4b)</div>
 
-- [ ] recordar  [start:: 2024-10-15]
+- [x] recordar  [start:: 2024-10-15]  [completion:: 2024-10-19]

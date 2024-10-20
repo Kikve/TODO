@@ -30,4 +30,4 @@ It raises an __IndexError__ if the list _is empty or the index is outside the li
 
 
 
-- [ ] recordar  [start:: 2024-10-12]
+- [x] recordar  [start:: 2024-10-12]  [completion:: 2024-10-19]

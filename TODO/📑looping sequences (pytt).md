@@ -25,4 +25,4 @@ parent_hash: "aea5a"
 [[📑loop unique elements (pytt)|loop unique elements]]
 
 
-- [ ] recordar  [start:: 2024-10-15]
+- [x] recordar  [start:: 2024-10-15]  [completion:: 2024-10-19]

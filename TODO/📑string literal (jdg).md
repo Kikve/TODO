@@ -13,6 +13,7 @@ parent_hash: "56db7"
 # 📑string literal
 <div class="hash">(232cd4)</div>
 
+to include [[📑string (jdg)|string]] in Javascript
 
 ```javascript
 "" // The empty string: it has zero characters
@@ -33,6 +34,9 @@ line"
 `the newline character at the end of this line
 is included literally in this string`
 ```
+
+[[📑template literal (jdg)|template literal]]
+[[📑regexp literal (jdg)|regexp literal]]
 
 
 - [ ] recordar  [start:: 2024-10-18]

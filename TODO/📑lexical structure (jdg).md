@@ -22,7 +22,7 @@ set of elementary rules that specifies how you write programs in that language
 [[📑reserved words (jdg)|reserved words]]
 [[📑unicode (jdg)|unicode]]
 [[📑optional semicolon (jdg)|optional semicolon]]
-
+[[📑literals (jdg)|literal]]
 
 
 

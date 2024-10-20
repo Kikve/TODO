@@ -12,6 +12,7 @@ parent_hash: "56db7"
 
 # 📑searching on string
 <div class="hash">(2f8296)</div>
+
 ```javascript
 // Searching a string
 s.indexOf("l")

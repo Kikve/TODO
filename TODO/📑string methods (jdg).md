@@ -13,17 +13,14 @@ parent_hash: "56db7"
 # 📑string methods
 <div class="hash">(2c5cb6)</div>
 
-
-// Obtaining portions of a string
-s.substring(1,4)
- // => "ell": the 2nd, 3rd, and 4th characters.
-s.slice(1,4)
- // => "ell": same thing
-s.slice(-3)
- // => "rld": last 3 characters
-s.split(", ")
- // => ["Hello", "world"]: split at delimiter string
-
+[[📑portions of string (jdg)|portions of string]]
+[[📑searching on string (jdg)|searching on string]]
+[[📑searching boolean (jdg)|searching boolean]]
+[[📑creating modified versions (jdg)|creating modified versions]]
+[[📑inspect characters (jdg)|inspect characters]]
+[[📑string padding (jdg)|string padding]]
+[[📑trim string (jdg)|trim string]]
+[[📑other string methods (jdg)|other string methods]]
 
 
 

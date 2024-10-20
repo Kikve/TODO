@@ -1,17 +1,17 @@
 ---
-nombre_nota: "potions of a string"
-alias: potions of a string
+nombre_nota: "portions of string"
+alias: portions of string
 letras: "jdg"
 referencias: "[[TODO/🏛️javascript definitive guide (56db7).md]]"
 tipo_nota: "📑"
-hash: "2d354e"
+hash: "5eaefe"
 parent_hash: "56db7"
 ---
 
 #nota/📑
 
-# 📑potions of a string
-<div class="hash">(2d354e)</div>
+# 📑portions of string
+<div class="hash">(5eaefe)</div>
 
 ```javascript
 // Obtaining portions of a string
@@ -27,6 +27,4 @@ s.split(", ")
 ```
 
 
-
-
-- [ ] recordar  [start:: 2024-10-18]
+- [ ] recordar  [start:: 2024-10-20]

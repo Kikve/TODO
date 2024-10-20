@@ -34,4 +34,4 @@ parent_hash: "aea5a"
 
 [[📑looping dictionaries (pytt)|looping dictionaries]]
 
-- [ ] recordar  [start:: 2024-10-12]
+- [x] recordar  [start:: 2024-10-12]  [completion:: 2024-10-19]

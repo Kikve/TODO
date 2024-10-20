@@ -27,4 +27,4 @@ The keyword  __def__ introduces a [[📑functions (pytt)|function]] _definition_
 [[📑documentation fuctions (pytt)|documentation on functions]]
 [[📑functions annotations (pytt)|functions annotations]]
 
-- [ ] recordar  [start:: 2024-10-12]
+- [x] recordar  [start:: 2024-10-12]  [completion:: 2024-10-19]

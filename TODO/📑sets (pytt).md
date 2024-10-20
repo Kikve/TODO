@@ -49,4 +49,4 @@ a ^ b                              # letters in a or b but not both
 
 
 
-- [ ] recordar  [start:: 2024-10-15]
+- [x] recordar  [start:: 2024-10-15]  [completion:: 2024-10-19]

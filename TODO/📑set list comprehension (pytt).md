@@ -12,6 +12,7 @@ parent_hash: "aea5a"
 
 # 📑set list comprehension
 <div class="hash">(2176bc)</div>
+
 [[📑sets (pytt)|set]]
 ```python
 a = {x for x in 'abracadabra' if x not in 'abc'}
