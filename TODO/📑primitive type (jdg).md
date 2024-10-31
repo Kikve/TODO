@@ -16,6 +16,8 @@ parent_hash: "56db7"
 
 include [[📑number (jdg)|numbers]], [[📑string (jdg)|string]] of text (known as strings), and [[📑boolean (jdg)|boolean]] truth values (known as booleans).
 
+> [!NOTE] Title
+Primitives are immutable: there is no way to change
 
 [[📑primitive type (jdg)|primitive type]] are inmutable
 [[📑null (jdg)|null]] and [[📑undefined (jdg)|undefined]] are primitive values, but they are
@@ -23,5 +25,7 @@ not numbers, strings, or booleans
 
 new special-purpose type, known as [[📑Symbol (jdg)|Symbol]]
 
+Primitives are also compared by value: two values are the same only if they have the
+same value
 
 - [ ] recordar  [start:: 2024-10-17]

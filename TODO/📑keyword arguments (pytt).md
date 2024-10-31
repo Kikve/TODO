@@ -36,4 +36,4 @@ parrot(110, voltage=220)     # duplicate value for the same argument
 parrot(actor='John Cleese')  # unknown keyword argument
 >```
 
-- [x] recordar  [start:: 2024-10-12]  [completion:: 2024-10-12]
+- [ ] recordar  [start:: 2024-10-12]

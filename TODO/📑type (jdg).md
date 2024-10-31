@@ -15,8 +15,7 @@ parent_hash: "56db7"
 
 [[📑object type (jdg)|object]]
 [[📑primitive type (jdg)|primitive type]]
-
-
-
+[[📑global object (jdg)|global object]]
+[[📑type conversions (jdg)|type conversions]]
 
 - [ ] recordar  [start:: 2024-10-20]

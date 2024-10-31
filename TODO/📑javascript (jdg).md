@@ -30,5 +30,7 @@ Since 2010, another host environment has been available for [[📑javascript (jd
  __Node__ gives [[📑javascript (jdg)|javascript]] access to the entire operating system
 
 [[📑lexical structure (jdg)|lexical structure]]
+[[📑type (jdg)|type]]
+
 
 - [ ] recordar  [start:: 2024-10-16]

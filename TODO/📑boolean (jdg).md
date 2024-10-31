@@ -30,4 +30,9 @@ NaN
 called falsy values, and all other values are called truthy. Any time JavaScript expects a [[📑boolean (jdg)|boolean]] value, a falsy value works like false and a truthy value works like true.
 
 
+- Despite these differences, [[📑null (jdg)|null]] and [[📑undefined (jdg)|undefined]] both indicate an absence of value and
+can often be used interchangeably. The equality operator == considers them to be
+equa
+
+
 - [ ] recordar  [start:: 2024-10-20]

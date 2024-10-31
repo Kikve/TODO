@@ -1,8 +1,8 @@
 ---
 nombre_nota: symbol for keyfor
 aliases:
-  - symbol for
   - for, keyfor
+  - Symbol keyfor for
 letras: jdg
 referencias: "[[TODO/🏛️javascript definitive guide (56db7).md]]"
 tipo_nota: 📑

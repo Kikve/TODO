@@ -30,4 +30,4 @@ for n in range(2, 10):
         # loop fell through without finding a factor
         print(n, 'is a prime number')
 ```
-- [x] recordar  [start:: 2024-10-12]  [completion:: 2024-10-12]
+- [ ] recordar  [start:: 2024-10-12]
