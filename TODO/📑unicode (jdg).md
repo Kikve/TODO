@@ -17,8 +17,7 @@ parent_hash: 56db7
 
 
 
-__JavaScript programs__ are written using the [[📑unicode (jdg)|unicode]] character set, and you can use any
-Unicode characters in   [[📑string (jdg)|strings]] and [[📑comments (jdg)|comments]].
+__JavaScript programs__ are written using the [[📑unicode (jdg)|unicode]] character set, and you can use any Unicode characters in [[📑string (jdg)|strings]] and [[📑comments (jdg)|comments]].
 
 
 

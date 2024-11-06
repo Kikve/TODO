@@ -16,5 +16,10 @@ parent_hash: "cd8c0"
 Contains machine-readable information
 
 
+includes [[📑global attributes (mdnd)|global attributes]]
+
+one or more  [[📑metadata (mdnd)|metadata]] elements
+
+
 
 - [ ] recordar  [start:: 2024-10-28]

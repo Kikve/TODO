@@ -13,9 +13,9 @@ parent_hash: "56db7"
 # 📑reserved words
 <div class="hash">(2a3ce)</div>
 
-[[📑reserved words (jdg)|reserved words]] that must not be used as the names of con‐ stants, __variables__, __functions__, or __classes__
+[[📑reserved words (jdg)|reserved words]] that must not be used as the names of __constants__, [[📑variable assignment (jdg)|variable]], __functions__, or __classes__
 
- __from, of, get, and set__) are used in limi‐ ted contexts with no syntactic ambiguity and are perfectly legal as [[📑identifier (jdg)|identifiers]]
+__from, of, get, and set__) are used in limited contexts are legal as [[📑identifier (jdg)|identifiers]]
 
 
 

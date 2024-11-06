@@ -29,5 +29,5 @@ Boolean([])
 [[📑convert number to other bases (jdg)|convert number to other bases]]
 [[📑convert numbers to specified digits (jdg)|convert numbers to specified digits]]
 [[📑number literal to number (jdg)|number literal to number]]
-
+[[📑object to primitive (jdg)|object to primitive]]
 - [ ] recordar  [start:: 2024-10-20]

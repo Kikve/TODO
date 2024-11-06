@@ -18,5 +18,6 @@ parent_hash: cd8c0
 
 [[📑element (mdnd)|element]]
 
-Defines the document's title that is shown
+Defines the document's title that is shown in a browser title bar
+
 - [ ] recordar  [start:: 2024-10-28]

@@ -1,16 +1,18 @@
 ---
-tags: 
-aliases:
-  - algorithm
-tipo: 📑
-referencia: "[[🏛️introduction to algorithms (859b3)]]"
-tema:
-  - algorithms
+nombre_nota: "algorithm"
+alias: algorithm
+letras: "ita"
+referencias: "[[TODO/🏛️introduction to algorithms (bbc0e).md]]"
+tipo_nota: "📑"
+hash: "30c4ce"
+parent_hash: "bbc0e"
 ---
 
 #nota/📑
 
-# algorithm 
+# 📑algorithm
+<div class="hash">(30c4ce)</div>
+
 
 [[🔌algorithm]]
 
@@ -20,5 +22,4 @@ some value, or set of values, as input and produces some value
 
 -  tool for solving a well-speciﬁed computational problem.
 
-
-- [ ] recordar  [start:: 2024-10-11]
+- [ ] recordar  [start:: 2024-11-04]

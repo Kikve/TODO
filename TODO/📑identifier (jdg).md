@@ -15,7 +15,15 @@ parent_hash: 56db7
 # 📑identifier
 <div class="hash">(967720)</div>
 
-[[📑identifier (jdg)|identifiers]] are used to name __constants__, __variables__, __properties__, __functions__, and __classes__ and to provide labels for certain loops in JavaScript code. A JavaScript [[📑identifier (jdg)|identifier]] must begin with a letter, an underscore `(_)`, or a dollar sign `($)`. Subsequent characters can be letters, digits, underscores, or dollar signs
+[[📑identifier (jdg)|identifiers]] are used to name __constants__, [[📑variable assignment (jdg)|variable]], __properties__, __functions__, and __classes__ and labels for loops in JavaScript code.
+
+[[📑identifier (jdg)|identifier]] must begin with 
+
+a letter, 
+an underscore `(_)` 
+a dollar sign `($)`. 
+Subsequent characters can be letters, digits, underscores, or dollar signs
+
 
 [[📑reserved words (jdg)|reserved words]]
 

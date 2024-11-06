@@ -2,6 +2,7 @@
 nombre_nota: variable assignment
 aliases:
   - variable assignment
+  - variable
 letras: jdg
 referencias: "[[TODO/🏛️javascript definitive guide (56db7).md]]"
 tipo_nota: 📑
@@ -15,7 +16,10 @@ parent_hash: 56db7
 <div class="hash">(78642a)</div>
 
 
- is the use of names—or [[📑identifier (jdg)|identifiers]] to represent __values__. Binding a name to a value gives us a way to refer to that value and use it in the programs we write.
+is the use of names or [[📑identifier (jdg)|identifiers]] to represent __values__
+
+
+Binding a name to a value gives us a way to refer to that value and use it in the programs we write.
  
 If we permanently assign a value to a name, then we call that name a constant instead of a variable.
 

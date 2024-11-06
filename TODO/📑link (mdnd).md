@@ -16,6 +16,19 @@ parent_hash: cd8c0
 <div class="hash">(75456f)</div>
 
 [[📑element (mdnd)|element]]
+
 Specifies relationships between the current document and an external resource.
+
+
+```html
+<link href="main.css" rel="stylesheet" />
+```
+
+```html
+<link rel="icon" href="favicon.ico" />
+```
+
+
+
 
 - [ ] recordar  [start:: 2024-10-28]

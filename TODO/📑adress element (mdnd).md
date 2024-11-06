@@ -14,7 +14,11 @@ parent_hash: cd8c0
 
 # 📑adress element
 <div class="hash">(8319fd)</div>
+
 [[📑element (mdnd)|element]]
-Indicates that the enclosed HTML provides contact information for a person or people, or for an organization.
+
+information for a person or people, or for an organization.
+
+can only be used to represent the contact information for its nearest [[📑article element (mdnd)|<article>]] [[📑body element (mdnd)|<body>]]
 
 - [ ] recordar  [start:: 2024-10-28]

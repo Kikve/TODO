@@ -13,11 +13,11 @@ parent_hash: "56db7"
 # 📑text in program
 <div class="hash">(9201e1)</div>
 
-- JavaScript is a case-sensitive language
-- JavaScript ignores spaces that appear between tokens in programs. For the most part,
-JavaScript also ignores line breaks
+- case-sensitive
+- ignores spaces that appear between tokens in programs. For the most part,
+ also ignores line breaks
 
- JavaScript also recognizes tabs,
-assorted ASCII control characters, and various Unicode space characters as white‐
-space
+also recognizes tabs,
+assorted ASCII control characters, and various Unicode space characters as whitespace
+
 - [ ] recordar  [start:: 2024-10-16]

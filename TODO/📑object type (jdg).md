@@ -10,11 +10,12 @@ tipo_nota: 📑
 hash: 5c6711
 parent_hash: 56db7
 ---
-
-#nota/📑
-
-# 📑object type
+ #nota/📑 
+ 
+ 
+# 📑object type 
 <div class="hash">(5c6711)</div>
+
 
 
 Any JavaScript __value__ that is not a [[📑number (jdg)|number]], a [[📑string (jdg)|string]], a [[📑boolean (jdg)|boolean]], a [[📑Symbol (jdg)|Symbol]], [[📑null (jdg)|null]], or [[📑undefined (jdg)|undefined]] is an [[📑object type (jdg)|object]].
@@ -27,10 +28,9 @@ Any JavaScript __value__ that is not a [[📑number (jdg)|number]], a [[📑stri
 
 An [[📑object type (jdg)|object]] (that is, a member of the type object) is a collection of __properties__ where each property has a __name and a value__
 
- __One very special object, the global object__
+One very special object, the [[📑global object (jdg)|global object]]
 
-[[📑object type (jdg)|object]] are different than [[📑primitive type (jdg)|primitive type]]. First, they are mutable their values can
-change
+[[📑object type (jdg)|object]] are different than [[📑primitive type (jdg)|primitive type]]. First, they are mutable their values can change
 
 [[📑object type (jdg)|objects]] are sometimes called reference types
 

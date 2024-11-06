@@ -31,6 +31,6 @@ Since 2010, another host environment has been available for [[📑javascript (jd
 
 [[📑lexical structure (jdg)|lexical structure]]
 [[📑type (jdg)|type]]
-
+[[📑assignment (jdg)|assignment]]
 
 - [ ] recordar  [start:: 2024-10-16]

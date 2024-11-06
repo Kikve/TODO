@@ -18,7 +18,7 @@ parent_hash: "cd8c0"
 allow you to organize the document content into logical pieces.
 
 [[📑adress element (mdnd)|<address>]]
-[[📑article element (mdnd)|article element]]
+[[📑article element (mdnd)|<article>]]
 [[📑aside element (mdnd)|aside element]]
 [[📑footer element (mdnd)|footer element]]
 [[📑header element (mdnd)|<header>]]

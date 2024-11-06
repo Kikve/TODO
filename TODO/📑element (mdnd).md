@@ -16,7 +16,7 @@ parent_hash: "cd8c0"
 
 An [[📑element (mdnd)|element]] is a part of a webpage 
 
-an element may contain a data item or a chunk of text or an image, or perhaps nothing. A typical element includes an opening tag
+an element may contain a damta item or a chunk of text or an image, or perhaps nothing. A typical element includes an opening tag
 
 ### types 
 
@@ -27,7 +27,7 @@ an element may contain a data item or a chunk of text or an image, or perhaps no
 [[📑inline text semantic (mdnd)|inline text semantic]]
 [[📑image and multimedia (mdnd)|image and multimedia]]
 [[📑embedded content (mdnd)|embedded content]]
-
-
+[[📑forms (mdnd)|forms]]
+[[📑interactive elements (mdnd)|interactive elements]]
 
 - [ ] recordar  [start:: 2024-10-28]

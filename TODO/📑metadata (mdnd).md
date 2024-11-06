@@ -19,7 +19,7 @@ parent_hash: "cd8c0"
 [[📑meta element (mdnd)|<meta>]]
 [[📑style element (mdnd)|style]]
 [[📑title element (mdnd)|title]]
-
+[[📑script element (mdnd)|<script>]]
 
 
 - [ ] recordar  [start:: 2024-10-28]

@@ -15,6 +15,22 @@ parent_hash: "cd8c0"
 
 `<base>`
 [[📑element (mdnd)|element]]
-Specifies the base URL to use for all relative URLs in a document. There can be only one such element in a document.
+
+base URL to use for all relative URLs in a document. 
+
+### attr
+[[📑href attribute (mdnd)|href]]
+[[📑target attribute (mdnd)|target]]
+
+> [!NOTE] 
+There can be only one such element in a document.
+
+
+```html
+<base href="https://www.example.com/" />
+<base target="_blank" />
+<base target="_top" href="https://example.com/" />
+```
+
 
 - [ ] recordar  [start:: 2024-10-28]

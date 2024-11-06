@@ -3,7 +3,7 @@ tipo: ""
 titulo: MDN
 autor: ""
 editorial: ""
-ano: ""
+ano: 
 url: https://developer.mozilla.org/en-US/
 nombre_nota: mdn docs
 aliases:
@@ -21,7 +21,6 @@ hash: cd8c0
 
 ```dataview
 table file.ctime, file.tasks.text from [[]] sort file.ctime desc
-
 ```
 
 

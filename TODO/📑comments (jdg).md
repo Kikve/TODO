@@ -13,9 +13,8 @@ parent_hash: "56db7"
 # 📑comments
 <div class="hash">(93f994)</div>
 
-Any text between a `//` and the end of a
-line is treated as a comment and is ignored by JavaScript. Any text between the char‐
-acters `/*` and `*/` is also treated as a comment
+Any text between a `//` and the end of a line is treated as a comment  
 
+Any text between the characters `/*` and `*/` is also treated as a comment
 
 - [ ] recordar  [start:: 2024-10-16]
